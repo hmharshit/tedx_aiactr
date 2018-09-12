@@ -6,5 +6,5 @@ pipelines:
           name: deploy to server
           deployment: test
           script:
-            - eb init -r "ap-south-1" " tedx-aiactr" <<< $'n'
+            - eb init -r "ap-south-1" "tedx-aiactr" <<< $'n'
             - eb deploy
