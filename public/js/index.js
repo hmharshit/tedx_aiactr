@@ -68,6 +68,5 @@ window.onscroll = function() {
         $('.navbar').addClass('topNav')
     }
 }
-$(window).load(function() {
-   $('.preloader').fadeOut('slow');
-});
+
+$(window).on('load', function(){ $(".loader").fadeOut(2000); }); 
