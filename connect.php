@@ -1,5 +1,4 @@
 <?php
-phpinfo();
 echo extension_loaded('pgsql') ? 'yes':'no';
 $localhost = "tedx-aiactr.cbls8rqpglrt.ap-south-1.rds.amazonaws.com";
 $DBNAME = "tedx_aiactr";
