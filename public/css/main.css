@@ -33,7 +33,7 @@ r{
 .media-icons .fa {
 	font-size: 1.5rem
 }
-.preloader {
+/*.preloader {
    position: absolute;
    top: 0;
    left: 0;
@@ -44,7 +44,7 @@ r{
    background-repeat: no-repeat; 
    background-color: #FFF;
    background-position: center;
-}
+}*/
 .loader {
   position: fixed;
   left: 0px;
@@ -52,7 +52,7 @@ r{
   width: 100%;
   height: 100%;
   z-index: 9999;
-  background: url("../images/load.gif") 50% 50% no-repeat #f9f9f9;
+  background: url("../images/preloader.gif") 50% 50% no-repeat #f9f9f9;
   opacity: 1; }
 
 #themeDiv {
@@ -129,11 +129,9 @@ r{
 	border:0;
 }
 
-<<<<<<< HEAD
+
 #footer {margin-left: 10px;
-=======
-#footer {
->>>>>>> 5b78cfa7c5e03d7156a0d88aa5a4197ea51402a0
+
 	margin-top: 50px;
 	padding: 30px 20px;
 	background-color: #333;
@@ -387,7 +385,18 @@ body {
 		max-width: 95vw;
 	}
 }
+#particles-js
+{
+height: 100%;
+background-image: url("public/images/background.jpg");
+position: absolute;
+	top: 0;
+	left: 0;
+	
+	width: 100%;
 
+
+}
 
 /*
 .blurBack {
