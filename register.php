@@ -32,14 +32,14 @@ $editor_urls         = implode(",", $editor_urls);
 $is_personal_contact = $_POST['is_personal_contact'];
 
 $SQL_QUERY = "INSERT INTO registration_data
-    (nominator_first_name, nominator_last_name, nominator_email, nominator_phone, 
-    is_nominate_himself, nominee_first_name, nominee_last_name, nominee_email, 
-    nominee_phone, city, country, gender, occupation, recommendation_reason, 
-    ted_talk_info, categories, public_speaking_info, media_urls, articles_urls, is_known_personally) 
+    (nominator_first_name, nominator_last_name, nominator_email, nominator_phone,
+    is_nominate_himself, nominee_first_name, nominee_last_name, nominee_email,
+    nominee_phone, city, country, gender, occupation, recommendation_reason,
+    ted_talk_info, categories, public_speaking_info, media_urls, articles_urls, is_known_personally)
     VALUES
-    ('$first_name', '$last_name', '$email', '$phone', $is_self, '$nominee_first_name', 
-    '$nominee_last_name', '$nominee_email', '$nominee_phone', '$nominee_city', 
-    '$nominee_country', '$nominee_gender', '$occupation', '$about_the_nominee', 
+    ('$first_name', '$last_name', '$email', '$phone', $is_self, '$nominee_first_name',
+    '$nominee_last_name', '$nominee_email', '$nominee_phone', '$nominee_city',
+    '$nominee_country', '$nominee_gender', '$occupation', '$about_the_nominee',
     '$talk_description', '$category_list', '$public_speaking', '$yrls', '$editor_urls',
     $is_personal_contact);";
 
