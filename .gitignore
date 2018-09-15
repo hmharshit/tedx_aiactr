@@ -43,7 +43,8 @@ cmake-build-*/
 
 # File-based project format
 *.iws
-
+demo.py
+config.cfg
 # IntelliJ
 out/
 

@@ -1,5 +1,4 @@
 <?php
-echo getenv("$RDS_HOST");
 $localhost = "tedx-aiactr.cbls8rqpglrt.ap-south-1.rds.amazonaws.com";
 $DBNAME = "tedx_aiactr";
 $USERNAME = "tedx_aiactr";
