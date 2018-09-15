@@ -1,47 +1,49 @@
 <?php
+// extracting the required details from the nomination form and inserting into registration_data
 require_once('connect.php');
-$yrls = array();
+$yrls        = array();
 $editor_urls = array();
-$_POST = $_POST['nomination'];
-$first_name = $_POST['nominator_first_name'];
-$last_name = $_POST['nominator_last_name'];
-$email = $_POST['nominator_last_name'];
-$phone = $_POST['nominator_phone'];
-$is_self = (bool) ((int)$_POST['is_self'] == 1 ? true : false);
+$_POST       = $_POST['nomination'];
+$first_name  = $_POST['nominator_first_name'];
+$last_name   = $_POST['nominator_last_name'];
+$email       = $_POST['nominator_last_name'];
+$phone       = $_POST['nominator_phone'];
+$is_self = ((int) $_POST['is_self'] == 1 ? "true" : "false");
 $nominee_first_name = $_POST['nominee_first_name'];
-$nominee_last_name = $_POST['nominee_last_name'];
-$nominee_email = $_POST['nominee_last_name'];
-$nominee_phone = $_POST['nominee_phone'];
-$nominee_city = $_POST['nominee_city'];
-$nominee_country = $_POST['country_id'];
-$nominee_gender = $_POST['nominee_gender'];
-$occupation = $_POST['occupation'];
-$about_the_nominee = $_POST['about_the_nominee'];
-$talk_description = $_POST['talk_description'];
-$category_list = implode(",", $_POST['category_list']);
-$public_speaking = $_POST['public_speaking'];
-for ($i=0; $i < sizeof($_POST['nomination']['media_links_attributes']) ; $i++) { 
-	$yrls[] = $_POST['nomination']['media_links_attributes'][$i]['url'];
+$nominee_last_name  = $_POST['nominee_last_name'];
+$nominee_email      = $_POST['nominee_last_name'];
+$nominee_phone      = $_POST['nominee_phone'];
+$nominee_city       = $_POST['nominee_city'];
+$nominee_country    = $_POST['country_id'];
+$nominee_gender     = $_POST['nominee_gender'];
+$occupation         = $_POST['occupation'];
+$about_the_nominee  = $_POST['about_the_nominee'];
+$talk_description   = $_POST['talk_description'];
+$category_list      = implode(",", $_POST['category_list']);
+$public_speaking    = $_POST['public_speaking'];
+for ($i = 0; $i < sizeof($_POST['media_links_attributes']); $i++) {
+    $yrls[] = $_POST['media_links_attributes'][$i]['url'];
 }
 $yrls = implode(",", $yrls);
-for ($i=0; $i < sizeof($_POST['nomination']['editorial_links_attributes']) ; $i++) { 
-	$editor_urls[] = $_POST['nomination']['editorial_links_attributes'][$i]['url'];
+for ($i = 0; $i < sizeof($_POST['editorial_links_attributes']); $i++) {
+    $editor_urls[] = $_POST['editorial_links_attributes'][$i]['url'];
 }
-$editor_urls = implode(",", $editor_urls);
+$editor_urls         = implode(",", $editor_urls);
 $is_personal_contact = $_POST['is_personal_contact'];
 
 $SQL_QUERY = "INSERT INTO registration_data
-(nominator_first_name, nominator_last_name, nominator_email, nominator_phone, 
-is_nominate_himself, nominee_first_name, nominee_last_name, nominee_email, 
-nominee_phone, city, country, gender, occupation, recommendation_reason, 
-ted_talk_info, categories, public_speaking_info, media_urls, articles_urls, is_known_personally) 
-VALUES
-('$first_name', '$last_name', '$email', '$phone', $is_self, '$nominee_first_name', 
-'$nominee_last_name', '$nominee_email', '$nominee_phone', '$nominee_city', 
-'$nominee_country', '$nominee_gender', '$occupation', '$about_the_nominee', 
-'$talk_description', '$category_list', '$public_speaking', '$yrls', '$editor_urls',
-$is_personal_contact);
-";
+    (nominator_first_name, nominator_last_name, nominator_email, nominator_phone, 
+    is_nominate_himself, nominee_first_name, nominee_last_name, nominee_email, 
+    nominee_phone, city, country, gender, occupation, recommendation_reason, 
+    ted_talk_info, categories, public_speaking_info, media_urls, articles_urls, is_known_personally) 
+    VALUES
+    ('$first_name', '$last_name', '$email', '$phone', $is_self, '$nominee_first_name', 
+    '$nominee_last_name', '$nominee_email', '$nominee_phone', '$nominee_city', 
+    '$nominee_country', '$nominee_gender', '$occupation', '$about_the_nominee', 
+    '$talk_description', '$category_list', '$public_speaking', '$yrls', '$editor_urls',
+    $is_personal_contact);";
+
+// querying in database
 $result = pg_query($db_connection, $SQL_QUERY);
 ?>
 
