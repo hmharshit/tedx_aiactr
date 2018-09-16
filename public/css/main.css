@@ -272,11 +272,7 @@ body {
 	cursor: pointer;
 	transition: all 0.3s ease;
 }
-/*
-.banTitle:hover {
-	border-top: 6px solid rgba(230,43,30,0.8);
-	border-right: 6px solid rgba(230,43,30,0.8);
-}*/
+
 
 .boldspan {
 	font-weight: 900;
@@ -284,6 +280,12 @@ body {
 
 .banTitle:hover .boldspan {
 	color: rgba(230,43,30,0.8);
+}
+.black{
+	font-weight: 700;
+}
+.banTitle:hover .black {
+	color: rgba(230,50,30,0.8);
 }
 
 .nav-item {
