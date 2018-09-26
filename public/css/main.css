@@ -130,12 +130,10 @@ r{
 }
 
 
-#footer {margin-left: 10px;
-
-	margin-top: 50px;
+#footer {
 	padding: 30px 20px;
 	background-color: #333;
-	width: 100%;
+	width: 102%;
 }
 
 #footer a {
