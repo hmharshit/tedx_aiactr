@@ -9,72 +9,19 @@
 <meta content='True' name='HandheldFriendly'>
 <meta content='320' name='MobileOptimized'>
 <meta content='width=device-width, initial-scale=1.0' name='viewport'>
+<link rel="icon" href="public/images/icon.png" type="image/gif" sizes="16x16">
 <link rel="stylesheet" media="all" href="registration.css" data-turbolinks-track="true" />
+<link rel="stylesheet" type="text/css" href="public/css/main.css">
 <link rel="stylesheet" type="text/css" href="external/css/bootstrap.min.css">
+<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css">
 <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+
 
 
 
 <script src="assets/registration.js" data-turbolinks-track="true"></script>
 </head>
-<body class='public-layout'>
-  <div class="navbar sticky-top navbar-expand-lg navbar-dark bg-dark topNav">
-      <a class="navbar-brand" href="index.html#themeDiv"><img width="250" src="public/images/TEDxAIACT.png" alt="" title="TEDxAIACTR"></a>
-      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapseNav" aria-controls="collapseNav" aria-expanded="false" aria-label="Toggle navigation">
-      <span class="navbar-toggler-icon"></span>
-      </button>
-
-      <div class="collapse navbar-collapse" id="collapseNav">
-          <ul class="navbar-nav mr-auto">
-              <li class="nav-item active">
-                  <a class="nav-link scrollable" href="index.html">Home</a>
-              </li><!--
-              <li class="nav-item">
-                  <a class="nav-link scrollable" href="#about">About</a>
-              </li>
-              <li class="nav-item">
-                  <a class="nav-link scrollable" href="#speakers">Speakers</a>
-              </li>
-              <li class="nav-item">
-                  <a class="nav-link scrollable" href="#sponsors">Sponsors</a>
-              </li> -->
-              <li class="nav-item">
-                  <a class="nav-link scrollable" href="team.html">Team</a>
-              </li><!--
-              <li class="nav-item">
-                  <a class="nav-link scrollable" href="#theme">Theme</a>
-              </li> -->
-              <li class="nav-item">
-                  <a class="nav-link scrollable" href="#about">About</a>
-              </li>
-              <li class="nav-item">
-                  <a class="nav-link scrollable" href="#speakers">Speakers</a>
-              </li>
-              <li class="nav-item">
-                  <a class="nav-link scrollable" href="#sponsors">Sponsors</a>
-              </li>
-          </ul>
-          <ul class="navbar-nav flex-row ml-md-auto d-none d-md-flex">
-              <li class="nav-item media-icons">
-                <a class="nav-link" href="https://www.facebook.com/TEDxAIACTR/">
-                  <i class="fa fa-facebook-official" aria-hidden="true"></i>
-                </a>
-              </li>
-              <li class="nav-item media-icons">
-                <a class="nav-link" href="https://www.linkedin.com/company/13225447/">
-                  <i class="fa fa-linkedin-square" aria-hidden="true"></i>
-                </a>
-              </li>
-              <li class="nav-item media-icons">
-                <a class="nav-link" href="https://www.instagram.com/tedxAIACTR/?hl=en">
-                  <i class="fa fa-instagram" aria-hidden="true"></i>
-                </a>
-              </li>
-        </ul>
-      </div>
-  </div>
-
-
+<div id="header"></div>
 <div class='container main'>
 <div class='row'>
 <div class='col-md-9'>
@@ -88,7 +35,7 @@
 <h3>
 <div class='intro'>
 Use this form to suggest a speaker for a future TED Conference.
-<br>
+</br>
 <span>Before you get started, please see our</span>
 <a href="http://www.ted.com/about/conferences/speaking-at-ted">speaker nomination FAQ</a>.
 </div>
@@ -754,6 +701,14 @@ By checking this box, I consent and agree to TED processing my information as de
 </div>
 </div>
 </div>
+<div id="footer"></div>
+<script>
+$(function(){
+  $("#header").load("header.html");
+  $("#footer").load("footer.html");
+});
+</script>
+
 
 
 </body>

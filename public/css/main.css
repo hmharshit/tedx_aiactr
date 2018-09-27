@@ -41,7 +41,7 @@ r{
    height: 50%
    z-index: 9999;
    background-image: url('../images/load.gif');
-   background-repeat: no-repeat; 
+   background-repeat: no-repeat;
    background-color: #FFF;
    background-position: center;
 }*/
@@ -133,7 +133,7 @@ r{
 #footer {
 	padding: 30px 20px;
 	background-color: #333;
-	width: 102%;
+	width: 100%;
 }
 
 #footer a {
@@ -392,7 +392,7 @@ background-image: url("public/images/background.jpg");
 position: absolute;
 	top: 0;
 	left: 0;
-	
+
 	width: 100%;
 	z-index: 1;
 
