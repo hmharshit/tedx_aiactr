@@ -14,50 +14,7 @@
 <body ng-app="app">
         <div class="loader"></div>
 
-    <nav class="navbar sticky-top navbar-expand-lg navbar-dark bg-dark gallNav">
-        <a class="navbar-brand" href="index.html#themeDiv"><img width="150" src="public/images/TEDxAIACT.png" alt="" title="TEDxAIACTR"></a>
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapseNav" aria-controls="collapseNav" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
-        </button>
-
-        <div class="collapse navbar-collapse" id="collapseNav">
-            <ul class="navbar-nav mr-auto">
-                <li class="nav-item active">
-                    <a class="nav-link scrollable" href="index.html">Home</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link scrollable" href="index.html/row#about">About</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link scrollable" href="inde.html#speakers">Speakers</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link scrollable" href="index.html#sponsors">Sponsors</a>
-                </li>
-                <li class="nav-item active">
-                    <a class="nav-link scrollable" href="registration.html">Registration</a>
-                </li>
-
-            </ul>
-            <ul class="navbar-nav flex-row ml-md-auto d-none d-md-flex">
-                <li class="nav-item media-icons">
-                    <a class="nav-link" href="https://www.facebook.com/TEDxAIACTR/">
-                        <i class="fa fa-facebook" aria-hidden="true"></i>
-                    </a>
-                </li>
-                <li class="nav-item media-icons">
-                    <a class="nav-link" href="https://www.linkedin.com/company/13225447/">
-                        <i class="fa fa-linkedin-square" aria-hidden="true"></i>
-                    </a>
-                </li>
-                <li class="nav-item media-icons">
-                    <a class="nav-link" href="https://www.instagram.com/tedxAIACTR/?hl=en">
-                        <i class="fa fa-instagram" aria-hidden="true"></i>
-                    </a>
-                </li>
-            </ul>
-        </div>
-    </nav>
+<?php include "header.php" ?>
     <div class="container" style="padding-top:5em; " ng-controller="teamController">
         <h1>The Web Development Team</h1>
         <div class="row">
@@ -146,17 +103,12 @@
         </div>
     </div>>
 
-    <div id="footer"></div>
+    <?php include "includes/footer.php"; ?>
     <script type="text/javascript" src="external/js/jquery.min.js"></script>
     <script type="text/javascript" src="external/js/popper.min.js"></script>
     <script type="text/javascript" src="external/js/bootstrap.min.js"></script>
     <script type="text/javascript" src="external/js/angular.min.js"></script>
     <script type="text/javascript" src="public/js/index.js"></script>
-    <script>
-    $(function(){
-      $("#header").load("includes/header.html");
-      $("#footer").load("includes/footer.html");
-    });
-    </script>
+    
 </body>
 </html>

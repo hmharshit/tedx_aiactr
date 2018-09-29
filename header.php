@@ -7,19 +7,25 @@
     <div class="collapse navbar-collapse" id="collapseNav">
         <ul class="navbar-nav mr-auto">
             <li class="nav-item active">
-                <a class="nav-link scrollable" href="index.html">Home</a>
+                <a class="nav-link scrollable" href="index.php">Home</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link scrollable" href="index.html/row#about">About</a>
+                <a class="nav-link scrollable" href="about.php">About</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link scrollable" href="inde.html#speakers">Speakers</a>
+                <a class="nav-link scrollable" href="speakers.php">Speakers</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link scrollable" href="index.html#sponsors">Sponsors</a>
+                <a class="nav-link scrollable" href="sponsors.php">Sponsors</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link scrollable" href="team.php">Team</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link scrollable" href="theme.php">Theme</a>
             </li>
             <li class="nav-item active">
-                <a class="nav-link scrollable" href="registration.html">Registration</a>
+                <a class="nav-link scrollable" href="registration.php">Registration</a>
             </li>
 
         </ul>

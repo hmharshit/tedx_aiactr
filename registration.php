@@ -21,7 +21,7 @@
 
 <script src="assets/registration.js" data-turbolinks-track="true"></script>
 </head>
-<div id="header"></div>
+<?php include "header.php"; ?>
 <div class='container main'>
 <div class='row'>
 <div class='col-md-9'>
@@ -701,13 +701,7 @@ By checking this box, I consent and agree to TED processing my information as de
 </div>
 </div>
 </div>
-<div id="footer"></div>
-<script>
-$(function(){
-  $("#header").load("includes/header.html");
-  $("#footer").load("includes/footer.html");
-});
-</script>
+<?php include "includes/footer.php"; ?>
 
 
 
