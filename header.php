@@ -13,10 +13,10 @@
                 <a class="nav-link scrollable" href="about.php">About</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link scrollable" href="speakers.php">Speakers</a>
+                <a class="nav-link scrollable" href="speaker.php">Speakers</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link scrollable" href="sponsors.php">Sponsors</a>
+                <a class="nav-link scrollable" href="sponser.php">Sponsors</a>
             </li>
             <li class="nav-item">
                 <a class="nav-link scrollable" href="team.php">Team</a>

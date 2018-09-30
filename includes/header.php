@@ -14,10 +14,10 @@
                 <a class="nav-link scrollable" href="about.html">About</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link scrollable" href="speakers.html">Speakers</a>
+                <a class="nav-link scrollable" href="speaker.html">Speakers</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link scrollable" href="sponsors.html">Sponsors</a>
+                <a class="nav-link scrollable" href="sponsor.html">Sponsors</a>
             </li>
             <li class="nav-item">
                 <a class="nav-link scrollable" href="team.html">Team</a>
