@@ -28,7 +28,13 @@
 
             </div>
             <div class="col-sm-12 text-center" id="ted">
-                <a class="scrollable" href="#about"><span class="banTitle"><span class="boldspan">TED<sup>x</sup></span> AIACTR <span class="black">2019</span></span></a>
+                <a class="scrollable" href="#about"><span class="banTitle"><span class="boldspan">TED<sup>x</sup></span> AIACTR <span class="black">2019</span></span></a><br><br>
+                <a href="registration.php">
+                  <span class="joined">
+                    JOIN US
+                    </span>
+                </a>
+
             </div>
             <div id="timer" class="col-sm-12">
                 <div class="time-units">

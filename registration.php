@@ -21,8 +21,9 @@
 
 <script src="assets/registration.js" data-turbolinks-track="true"></script>
 </head>
-<?php include "header.php"; ?>
+
 <body>
+<?php include "header.php"; ?>
   <div class='container main'>
   <div class='row'>
   <div class='col-md-9'>
