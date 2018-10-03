@@ -1,3 +1,15 @@
+.joined{width: 50px;
+	
+	border: 5px solid #bcbbbb;
+	padding-top: 15px 45px 15px 45px;
+	color: #bcbbbb;
+	text-decoration: none;
+}
+.joined:hover {
+	color: rgba(230,43,30,0.8);
+	font-weight: bold;
+	
+}
 .coming{
 	width: 100%;
 	padding-top: 100px;
@@ -18,6 +30,7 @@ m{
 	color: #df0024;
 }
 .spons{
+	 
 	width: 100%;
 	padding-top: 100px;
 	padding-bottom: 100px;
@@ -300,7 +313,6 @@ body {
 	transition: all 0.3s ease;
 }
 
-
 .boldspan {
 	font-weight: 900;
 }
@@ -308,6 +320,8 @@ body {
 .banTitle:hover .boldspan {
 	color: rgba(230,43,30,0.8);
 }
+
+
 .black{
 	font-weight: 700;
 }
@@ -405,6 +419,9 @@ body {
 	.banTitle {
 		font-size: 1.5rem;
 	}
+	.joins{
+		font-size: 1.5rem;
+	}
 
 	.speakerDes {
 		display: none;
@@ -446,4 +463,8 @@ position: absolute;
 	width: 100%;
 	height: 100%;
 	filter: blur(10px) grayscale(0.8);
-}*/
+}
+*/
+a{
+	text-decoration: none !important;
+}
