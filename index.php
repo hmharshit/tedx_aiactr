@@ -33,7 +33,7 @@
                 </a>
      </div>
             </div></div>
-            <!--div id="timer" class="col-sm-12">
+            <div id="timer" class="col-sm-12">
                 <div class="time-units">
                     <p id="days">00</p>
                     <p>days</p>
@@ -50,7 +50,7 @@
                     <p id="seconds">00</p>
                     <p>sec</p>
                 </div>
-            </div-->
+            </div>
         </div>
 
 
