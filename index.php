@@ -9,9 +9,6 @@
 	<link rel="stylesheet" type="text/css" href="external/font-awesome-4.7.0/css/font-awesome.min.css">
 	<link rel="stylesheet" type="text/css" href="public/css/main.css">
     <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
-
-
-
 </head>
 <body>
     <div class="loader"></div>
@@ -27,9 +24,9 @@
             <div class="col-sm-12">
 
             
-            <div class="col-sm-12 text-center" id="ted" style="top: 230px">
+            <div class="col-sm-12 text-center" id="ted" style="top: 270px">
                 <a class="scrollable" href="#about"><span class="banTitle"><span class="boldspan">TED<sup>x</sup></span> AIACTR <span class="black">2019</span></span></a><br><br>
-                <a href="registration.php"><span class="boldspan">
+                <a class="hvr-buzz" href="registration.php"><span class="boldspan">
                   <span class="joined">
                     JOIN US
                     </span></span>
@@ -89,9 +86,7 @@
                     </div>
                 </div>
             </div>
-            <div class="map">
-                 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3501.1869477578434!2d77.2651855650831!3d28.654120532409273!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390cfc944ec6b523%3A0xd8bf72d453dbf662!2sAIACTR!5e0!3m2!1shi!2sin!4v1536816080393" height="200" width="auto" frameborder="0" style="border:0; " allowfullscreen></iframe>
-             </div>
+            <!--div style="width: 100%"><iframe width="100%" height="300" src="https://www.google.com/maps/embed?pb=!1m23!1m12!1m3!1d3501.182691981304!2d77.26583481508312!3d28.654247982409228!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x390cfc944ec6b523%3A0xd8bf72d453dbf662!2zQUlBQ1RSLCDgpJfgpYDgpKTgpL4g4KSV4KWJ4KSy4KWL4KSo4KWALCDgpKjgpIgg4KSm4KS_4KSy4KWN4KSy4KWALCDgpKbgpL_gpLLgpY3gpLLgpYAgMTEwMDMx!3m2!1d28.654248!2d77.2680235!5e0!3m2!1shi!2sin!4v1538568164745" width="100%" height="300" frameborder=""0" style="border:0" scrolling="no"></iframe-->
 
         <?php include "includes/footer.php" ?>
 
