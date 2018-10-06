@@ -98,7 +98,7 @@ r{
   opacity: 1; }
 
 #themeDiv {
-	background: url(../images/background.jpg) no-repeat center center fixed;
+	background: url(../images/background.gif);
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -438,7 +438,7 @@ animation:animatetop 7s}
 #particles-js
 {
 height: 100%;
-background-image: url("public/images/background.jpg");
+background-image: url("public/images/background.gif");
 position: absolute;
 	top: 0;
 	left: 0;

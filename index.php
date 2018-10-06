@@ -24,7 +24,7 @@
             <div class="col-sm-12">
 
             
-            <div class="col-sm-12 text-center" id="ted" style="top: 270px">
+            <div class="col-sm-12 text-center" id="ted" style="top: 250px">
                 <a class="scrollable" href="#about"><span class="banTitle"><span class="boldspan">TED<sup>x</sup></span> AIACTR <span class="black">2019</span></span></a><br><br>
                 <a class="hvr-buzz" href="registration.php"><span class="boldspan">
                   <span class="joined">
