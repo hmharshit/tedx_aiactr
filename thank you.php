@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="theme-color" content="#a51e15" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+	<title>TEDxAIACTR | 2019</title>
+    <link rel="icon" href="public/images/icon.png" type="image/gif" sizes="16x16">
+	<link rel="stylesheet" type="text/css" href="external/css/bootstrap.min.css">
+	<link rel="stylesheet" type="text/css" href="external/font-awesome-4.7.0/css/font-awesome.min.css">
+	<link rel="stylesheet" type="text/css" href="public/css/main.css">
+        <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+
+</head>
+<body>
+    <div class="loader"></div>
+    <?php
+    include "header.php";?>
+    <center>
+    <img src="public/images/back.jpg">
+</center>
+<?php include "includes/footer.php" ?>
+    </div>
+    <script type="text/javascript" src="external/js/jquery.min.js"></script>
+    <script type="text/javascript" src="external/js/popper.min.js"></script>
+    <script type="text/javascript" src="external/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="external/js/angular.min.js"></script>
+    <script type="text/javascript" src="public/js/index.js"></script>
+</body>
+</html>

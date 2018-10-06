@@ -6548,7 +6548,7 @@ body.modal-open {
   padding-right: 0 !important; }
 
 body.scrollable {
-  overflow-y: auto; }
+  overflow-y: auto; }/
 
 .modal-dialog .modal-content {
   -webkit-box-shadow: 0 5px 11px 0 rgba(0, 0, 0, 0.18), 0 4px 15px 0 rgba(0, 0, 0, 0.15);

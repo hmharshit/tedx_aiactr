@@ -27,13 +27,13 @@ var pJS = function(tag_id, params){
         }
       },
       color: {
-        value: '#fff'
+        value: '#f00'
       },
       shape: {
         type: 'circle',
         stroke: {
           width: 0,
-          color: '#ff0000'
+          color: '#f00'
         },
         polygon: {
           nb_sides: 5
@@ -67,7 +67,7 @@ var pJS = function(tag_id, params){
       line_linked: {
         enable: true,
         distance: 100,
-        color: '#fff',
+        color: '#f00',
         opacity: 1,
         width: 1
       },
@@ -265,7 +265,7 @@ var pJS = function(tag_id, params){
       pJS.fn.vendors.checkOverlap(this, position);
     }
 
-    /* color */
+    /* color 
     this.color = {};
     if(typeof(color.value) == 'object'){
 

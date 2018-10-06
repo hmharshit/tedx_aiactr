@@ -594,6 +594,7 @@ pre code {
   flex-wrap: wrap;
   margin-right: -15px;
   margin-left: -15px;
+
 }
 
 .no-gutters {
@@ -605,6 +606,7 @@ pre code {
 .no-gutters > [class*="col-"] {
   padding-right: 0;
   padding-left: 0;
+
 }
 
 .col-1, .col-2, .col-3, .col-4, .col-5, .col-6, .col-7, .col-8, .col-9, .col-10, .col-11, .col-12, .col,
@@ -618,6 +620,9 @@ pre code {
   min-height: 1px;
   padding-right: 15px;
   padding-left: 15px;
+  border: 100px
+  
+  align-content: center;
 }
 
 .col {
@@ -959,6 +964,7 @@ pre code {
   .order-sm-12 {
     -ms-flex-order: 12;
     order: 12;
+
   }
   .offset-sm-0 {
     margin-left: 0;
