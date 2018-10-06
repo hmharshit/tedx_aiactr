@@ -32,17 +32,17 @@
         <ul class="navbar-nav flex-row ml-md-auto d-none d-md-flex">
             <li class="nav-item media-icons">
                 <a class="nav-link" href="https://www.facebook.com/TEDxAIACTR/">
-                    <i class="fa fa-facebook" aria-hidden="true"></i>
+                    <i style="font-size: 24px" class="fa fa-facebook" aria-hidden="true"></i>
                 </a>
             </li>
             <li class="nav-item media-icons">
                 <a class="nav-link" href="https://www.linkedin.com/company/13225447/">
-                    <i class="fa fa-linkedin-square" aria-hidden="true"></i>
+                    <i style="font-size: 24px" class="fa fa-linkedin-square" aria-hidden="true"></i>
                 </a>
             </li>
             <li class="nav-item media-icons">
                 <a class="nav-link" href="https://www.instagram.com/tedxAIACTR/?hl=en">
-                    <i class="fa fa-instagram" aria-hidden="true"></i>
+                    <i style="font-size: 24px" class="fa fa-instagram" aria-hidden="true"></i>
                 </a>
             </li>
         </ul>
