@@ -1,3 +1,26 @@
+.abt{
+	width: 100%;
+	color: #010101;
+	padding: 80px 250px 80px 250px;
+	text-align: justify;
+}
+.map{
+	width: 100%;
+
+}
+.mapend{
+	background-color: #090909;
+	color: white;
+	width: 100%;
+	padding-left: 150px;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	margin-bottom: 10px;
+}
+.mapend a{
+	color: white;
+	text-decoration: none;
+}
 .pad{
 	padding-left: 15px;
 	padding-right: 15px;

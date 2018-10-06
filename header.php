@@ -1,4 +1,5 @@
 <nav class="navbar sticky-top navbar-expand-lg navbar-dark bg-dark gallNav">
+
     <a class="navbar-brand" href="index.php"><img style="padding: 12px" width="150" src="public/images/TEDxAIACT.png" alt="" title="TEDxAIACTR"></a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapseNav" aria-controls="collapseNav" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
@@ -23,6 +24,9 @@
             </li>
             <li class="nav-item">
                 <a class="nav-link scrollable" href="theme.php"><font color="white">Theme</font></a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link scrollable" href="contactus.php"><font color="white">Contact Us</font></a>
             </li>
             <li class="nav-item">
                 <a class="nav-link scrollable" href="registration.php"><font color="white">Registration</font></a>
