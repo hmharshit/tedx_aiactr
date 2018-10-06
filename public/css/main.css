@@ -331,6 +331,7 @@ body {
 
 .nav-item {
 	transition: all 0.3s ease;
+	color: white;
 }
 
 .nav-item.active {
@@ -393,9 +394,6 @@ body {
 .scrollable {
 	text-decoration: none;
 position:relative;
-animation:animatetop 3s}
-@keyframes animatetop{from{top:-300px;opacity:0} to{top:0;opacity:1}}
-
 }
 
 .scrollable:hover {
