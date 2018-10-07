@@ -26,7 +26,7 @@
                 <a class="nav-link scrollable" href="theme.php"><font color="white">Theme</font></a>
             </li>
             <li class="nav-item">
-                <a class="nav-link scrollable" href="contactus.php"><font color="white">Contact Us</font></a>
+                <a class="nav-link scrollable" href="contact.php"><font color="white">Contact Us</font></a>
             </li>
             <li class="nav-item">
                 <a class="nav-link scrollable" href="registration.php"><font color="white">Registration</font></a>

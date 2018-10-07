@@ -97,7 +97,7 @@
     <script type="text/javascript" src="external/js/angular.min.js"></script>
 	<script type="text/javascript" src="public/js/index.js"></script>
     <script type="text/javascript" src="public/js/index.js"></script>
-    <script type="text/javascript" src="public/js/particles.js"></script>
+    
     <script type="text/javascript" src="public/js/particles.min.js"></script>
     <script type="text/javascript" src="public/js/app.js"></script>
 
