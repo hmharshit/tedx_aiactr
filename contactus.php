@@ -20,34 +20,22 @@
     <div class="headi">
         Contact <m>Us</m>
     </div>
-    <div class="map">
-         <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3501.1869477578434!2d77.2651855650831!3d28.654120532409273!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390cfc944ec6b523%3A0xd8bf72d453dbf662!2sAIACTR!5e0!3m2!1shi!2sin!4v1536816080393" height="500" width="100%" frameborder="0" style="border:0;" allowfullscreen></iframe>
-    </div> 
-    <div class="mapend">
-        <div class="row">
-                    <div class="col-md-4"> 
-                      <div class="">
-                        <h4><i class="fa fa-home"></i> Address:</h4>
+    <div class="row">
+        <div style="width: 25%;">
+        <div class="mapend">    <h4><i class="fa fa-home"></i> Address:</h4>
                         <p class="desc"> AIACTR Campus, Geeta Colony<br>
 
-&nbsp;&nbsp;New Delhi, India - 110031 </p>
-                      </div>
-                    </div>
-                    <div class="col-md-4"> 
-                      <div class="">
-                        <h4><i class="fa fa-phone"></i> Phones:</h4>
-                        
-                      </div>
-                    </div>
-                    <div class="col-md-4"> 
-                      <div class="">
-                        <h4><i class="fa fa-envelope"></i> E-mail:</h4>
-                        
-                      </div>
-                    </div>
-                  </div>
-                
+&nbsp;&nbsp;New Delhi, India - 110031 </p><br><br>
+ <h4><i class="fa fa-phone"></i> Phones:</h4><br><br>
+ <h4><i class="fa fa-envelope"></i> E-mail:</h4><br><br>
+        </div></div>
+    <div class="col-md-9">
+    
+</div>
     </div>
+    <div class="map">
+         <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3501.1869477578434!2d77.2651855650831!3d28.654120532409273!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390cfc944ec6b523%3A0xd8bf72d453dbf662!2sAIACTR!5e0!3m2!1shi!2sin!4v1536816080393" height="500" width="100%" frameborder="0" allowfullscreen></iframe>
+    </div> 
        <?php include "includes/footer.php" ?>
     <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="display:none;">
       <symbol id="close" viewBox="0 0 18 18">

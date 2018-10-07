@@ -1,4 +1,4 @@
-<div class="pad">
+<!div class="pad">
 <div class="row" id="footer">
     <div class="col-sm-12 col-md-4">
         <h4>Important Links</h4>
@@ -23,5 +23,4 @@
             <h6>&nbsp;&nbsp;&nbsp;&copy; This independent TEDx event is operated under license from TED.</h6>
         </div>
     </div>
-</div>
 </div>
