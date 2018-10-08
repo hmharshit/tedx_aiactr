@@ -1,6 +1,7 @@
 <nav class="navbar sticky-top navbar-expand-lg navbar-dark bg-dark gallNav">
 
-    <a class="navbar-brand" href="index.php"><img style="padding: 12px" width="210" src="public/images/TEDxAIACTR.png" alt="" title="TEDxAIACTR"></a>
+
+    <a class="navbar-brand" href="index.php"><img  width="210" src="public/images/TEDxAIACTR.png" alt="" title="TEDxAIACTR"></a>
 
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapseNav" aria-controls="collapseNav" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
