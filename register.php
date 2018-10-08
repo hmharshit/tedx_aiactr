@@ -73,14 +73,14 @@ try {
     $mail->Port = 587;                                    // TCP port to connect to
 
     //Recipients
-    $mail->setFrom('noreply@tedxaiactr.com', 'Mailer');
-    $mail->addAddress('noreply@tedxaiactr.com', 'Joe User');     // Add a recipient
+    $mail->setFrom('noreply@tedxaiactr.com', 'TEDx AIACTR');
+    $mail->addAddress('hmharshit@gmail.com', 'Joe User');     // Add a recipient
 
 
 
     //Content
     $mail->isHTML(true);                                  // Set email format to HTML
-    $mail->Subject = 'Here is the subject';
+    $mail->Subject = 'subject';
     $mail->Body    = 'This is the HTML message body <b>in bold!</b>';
     $mail->AltBody = 'This is the body in plain text for non-HTML mail clients';
 
