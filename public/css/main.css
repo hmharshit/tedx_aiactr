@@ -1,3 +1,27 @@
+.abt{
+	width: 100%;
+	color: #010101;
+	padding: 100px 100px 100px 100px;
+	text-align: justify;
+}
+.map{
+	width: 100%;
+
+}
+.mapend{
+	background-color: #585858;
+	color: white;
+	width: 100%;
+	padding-left: 50px;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	margin-bottom: 10px;
+	height: 500px;
+}
+.mapend a{
+	color: white;
+	text-decoration: none;
+}
 .pad{
 	padding-left: 15px;
 	padding-right: 15px;
@@ -179,7 +203,7 @@ r{
 #footer {
 	padding: 30px 20px;
 	background-color: #333;
-	width: 102%;
+	width: 103%;
 }
 
 #footer a {

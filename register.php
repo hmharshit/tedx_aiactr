@@ -115,13 +115,13 @@ try {
         <div class="collapse navbar-collapse" id="collapseNav">
             <ul class="navbar-nav mr-auto">
                 <li class="nav-item active">
-                    <a class="nav-link scrollable" href="index.html">Home</a>
+                    <a class="nav-link scrollable" href="index.php">Home</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link scrollable" href="team.html">Team</a>
+                    <a class="nav-link scrollable" href="team.php">Team</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link scrollable" href="registration.html">Registration</a>
+                    <a class="nav-link scrollable" href="registration.php">Registration</a>
                 </li>
             </ul>
             <ul class="navbar-nav flex-row ml-md-auto d-none d-md-flex">
@@ -171,6 +171,7 @@ try {
             </div>
         </div>
     </div>
+
     <script type="text/javascript" src="external/js/jquery.min.js"></script>
     <script type="text/javascript" src="external/js/popper.min.js"></script>
     <script type="text/javascript" src="external/js/bootstrap.min.js"></script>

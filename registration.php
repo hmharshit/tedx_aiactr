@@ -696,7 +696,8 @@
   <button class='btn btn-default form-control' style="background-color:rgb(52,58,64)">Submit</button>
   </div>
   <div class='col-md-2 pull-right action-button'>
-  <a class="btn btn-default form-control" style="background-color:rgb(52,58,64);padding-top:11px" href="http://www.ted.com">Cancel</a>
+  <a href="http://www.ted.com">
+  <button class="btn btn-default form-control" style="background-color:rgb(52,58,64)" >Cancel</button></a>
   </div>
   </div>
   </form>

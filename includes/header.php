@@ -26,6 +26,9 @@
                 <a class="nav-link scrollable" href="theme.html">Theme</a>
             </li>
             <li class="nav-item">
+                <a class="nav-link scrollable" href="contactus.html">Contact Us</a>
+            </li>
+            <li class="nav-item">
                 <a class="nav-link scrollable" href="registration.html">Registration</a>
             </li>
         </ul>

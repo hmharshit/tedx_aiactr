@@ -18,30 +18,24 @@
 <?php include "header.php";?>
     
     <div class="headi">
-        Abou<m>t</m>
+        Contact <m>Us</m>
     </div>
-    <div class="abt">
-   <p>    The Institute
+    <div class="row">
+        <div style="width: 25%;">
+        <div class="mapend">    <h4><i class="fa fa-home"></i> Address:</h4>
+                        <p class="desc"> AIACTR Campus, Geeta Colony<br>
 
-<b>Ambedkar Institute of Advanced Communication Technologies and Research (abbreviated AIACTR or AIT Delhi)</b> is a public engineering college located in Geeta Colony, East Delhi.<br><br>
-
-It was established in 2001 by the Government of the National Capital Territory of Delhi , to cater to the ever-increasing industrial demand for technical manpower. 
-<br><br>
-The institute, as a matter of fact, enjoys a prime and central location, in the vicinity of Metro Stations: Shastri Park on the Red Line, and Nirman Vihar on the Blue Line. This ensures, it is convenient to reach by one and all.
-<br><br>
-The foundation stone for the new State-of-Art campus, was laid in 2006. The institute is affiliated to the Guru Gobind Singh Indraprastha University.
-<br><br>
-Since then the institute has been developing tremendously as a Centre of Excellence, imparting quality technical education in the field of engineering. <br>
-In the 2015 survey of Government-owned technical institutions, the institute has been ranked 14th.
-<br><br>
-TEDxAIACTR
-Envisioning the dissemination of quality technological institution, with emphasis on Industry-oriented needs and Research Ethics, the college stands upright as a team and is committed to bringing a positive wave of change in people's lives.
-<br><br>
-TEDxAIACTR is one such endeavour.<br>
- A  multitude of highly enthusiastic students work together collaborating in teams, so as to organize an efficient platform for the surge of ideas, knowledge and opinion, worth spreading ! 
-<br><br>
-For eminent and resourceful speakers, from artists to industrialists, all from multi-disciplinary backgrounds to grace the event with their ideas, knowledge and experiences in the form of short talks in any discipline, be it- Technology, Entertainment, Design, Science, Humanities, Business, Development or any other field.
-    </p></div> 
+&nbsp;&nbsp;New Delhi, India - 110031 </p><br><br>
+ <h4><i class="fa fa-phone"></i> Phones:</h4><br><br>
+ <h4><i class="fa fa-envelope"></i> E-mail:</h4><br><br>
+        </div></div>
+    <div class="col-md-9">
+    
+</div>
+    </div>
+    <div class="map">
+         <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3501.1869477578434!2d77.2651855650831!3d28.654120532409273!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390cfc944ec6b523%3A0xd8bf72d453dbf662!2sAIACTR!5e0!3m2!1shi!2sin!4v1536816080393" height="500" width="100%" frameborder="0" allowfullscreen></iframe>
+    </div> 
        <?php include "includes/footer.php" ?>
     <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="display:none;">
       <symbol id="close" viewBox="0 0 18 18">
