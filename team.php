@@ -15,7 +15,7 @@
         <div class="loader"></div>
 
 <?php include "header.php" ?>
-    <div class="container" style="padding-top:5em; " ng-controller="teamController">
+  <!--   <div class="container" style="padding-top:5em; " ng-controller="teamController">
         <h1>The Web Development Team</h1>
         <div class="row">
             <div class="col-md-3 col-sm-12">
@@ -102,7 +102,19 @@
             </div>
         </div>
     </div>>
-
+ -->
+  <br><br>
+ <center><b><h3>ORGANISER</h3></b></center>
+ <div class="row">
+    <img src="public/images/team/Shashank.jpg" style="width: 195px; height: 145px; margin-left: 600px; margin-top: 20px; margin-bottom: 20px;"> 
+</div>
+<center><b><h3>VOLUNTEER</h3></b></center>
+<div class="row">
+   <img src="public/images/team/hemant.jpg"style="width: 200px; height: 150px; margin-left: 150px; margin-top: 20px; margin-bottom: 20px;"> 
+   <img src="public/images/team/harshit.jpg"style="width: 200px; height: 150px; margin-left: 80px; margin-top: 20px; margin-bottom: 20px;"> 
+   <img src="public/images/team/ashu.jpg"style="width: 200px; height: 150px; margin-left: 80px; margin-top: 20px; margin-bottom: 20px;"> 
+   <img src="public/images/team/prabhat.jpg"style="width: 200px; height: 150px; margin-left: 80px; margin-top: 20px; margin-bottom: 20px;"> 
+ </div>
     <?php include "includes/footer.php"; ?>
     <script type="text/javascript" src="external/js/jquery.min.js"></script>
     <script type="text/javascript" src="external/js/popper.min.js"></script>
