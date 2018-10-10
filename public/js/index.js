@@ -70,3 +70,5 @@ window.onscroll = function() {
 }
 
 $(window).on('load', function(){ $(".loader").fadeOut(2000); }); 
+
+
