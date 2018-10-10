@@ -67,8 +67,8 @@ try {
     $mail->isSMTP();                                      // Set mailer to use SMTP
     $mail->Host = 'email-smtp.us-east-1.amazonaws.com';  // Specify main and backup SMTP servers
     $mail->SMTPAuth = true;                               // Enable SMTP authentication
-    $mail->Username = 'AKIAJL7VIHCMPHR3CHYQ';                 // SMTP username
-    $mail->Password = 'AmUo6nQQ+06KlXKTBekaIRuO7nNmLgbyMwKW2nb3OoZo';                           // SMTP password
+    $mail->Username = getenv("EMAIL_USERNAME");                 // SMTP username
+    $mail->Password = getenv("EMAIL_PASSWORD");                           // SMTP password
     $mail->SMTPSecure = 'tls';                            // Enable TLS encryption, `ssl` also accepted
     $mail->Port = 587;                                    // TCP port to connect to
 
