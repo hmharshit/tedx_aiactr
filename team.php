@@ -115,6 +115,8 @@
    <img src="public/images/team/ashu.jpg"style="width: 200px; height: 150px; margin-left: 80px; margin-top: 20px; margin-bottom: 20px;"> 
    <img src="public/images/team/prabhat.jpg"style="width: 200px; height: 150px; margin-left: 80px; margin-top: 20px; margin-bottom: 20px;"> 
  </div>
+
+
     <?php include "includes/footer.php"; ?>
     <script type="text/javascript" src="external/js/jquery.min.js"></script>
     <script type="text/javascript" src="external/js/popper.min.js"></script>

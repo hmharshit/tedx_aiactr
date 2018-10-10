@@ -20,7 +20,7 @@
 
    <style>
 	    body{
-	    	background-image: url(public/images/jade.gif);
+	    	background-image: url(public/images/conta.gif);
 	    	background-size:cover;
 	    }
 	    hr{
