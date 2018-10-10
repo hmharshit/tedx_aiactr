@@ -1,6 +1,6 @@
 <?php
 // extracting the required details from the nomination form and inserting into registration_data
-/*
+
 require_once('connect.php');
 $yrls        = array();
 $editor_urls = array();
@@ -51,7 +51,7 @@ $result = pg_query($db_connection, $SQL_QUERY);
 ?>
 
 <?php
-*/
+
 // Import PHPMailer classes into the global namespace
 // These must be at the top of your script, not inside a function
 use PHPMailer\PHPMailer\PHPMailer;
@@ -67,14 +67,14 @@ try {
     $mail->isSMTP();                                      // Set mailer to use SMTP
     $mail->Host = 'email-smtp.us-east-1.amazonaws.com';  // Specify main and backup SMTP servers
     $mail->SMTPAuth = true;                               // Enable SMTP authentication
-    $mail->Username = getenv("EMAIL_USERNAME");                 // SMTP username
+     $mail->Username = getenv("EMAIL_USERNAME");                 // SMTP username
     $mail->Password = getenv("EMAIL_PASSWORD");                           // SMTP password
     $mail->SMTPSecure = 'tls';                            // Enable TLS encryption, `ssl` also accepted
     $mail->Port = 587;                                    // TCP port to connect to
 
     //Recipients
     $mail->setFrom('noreply@tedxaiactr.com', 'TEDx AIACTR');
-    $mail->addAddress('hmharshit@gmail.com', 'Joe User');     // Add a recipient
+    $mail->addAddress($nominee_email, $nominee_first_name);     // Add a recipient
 
 
 
