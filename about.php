@@ -15,6 +15,7 @@
     <link rel="stylesheet" type="text/css" href="public/css/gall.css">
 </head>
 <body>
+     <div class="loader"></div>
 <?php include "header.php";?>
     
     <div class="headi">

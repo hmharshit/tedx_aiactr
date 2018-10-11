@@ -24,6 +24,7 @@
     </style>
 </head>
 <body>
+     <div class="loader"></div>
 <?php include "header.php";?>
 
     <div class="contact">

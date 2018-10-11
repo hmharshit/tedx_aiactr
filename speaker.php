@@ -12,9 +12,10 @@
 	<link rel="stylesheet" type="text/css" href="public/css/main.css">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600">
 	<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
-    <link rel="stylesheet" type="text/css" href="public/css/gall.css">
+    
 </head>
 <body>
+     <div class="loader"></div>
 
     <?php include "header.php"; ?>
     <div class="headi">
@@ -38,6 +39,7 @@
                 </figure>
             </div>
         </div> -->
+        
 <?php include "includes/footer.php" ?>
     <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="display:none;">
       <symbol id="close" viewBox="0 0 18 18">

@@ -15,18 +15,18 @@
     <link rel="stylesheet" type="text/css" href="public/css/gall.css">
 </head>
 <body>
+   <div class="loader"></div>
 <?php include "header.php";?>
     
     <div class="headi">
         Them<m>e</m>
     </div>
     <div class="vid">
-           <iframe src="https://youtu.be/uDqeOdaQ7iA" width="100%" height="400px"></iframe> 
+      <iframe width="100%" height="400px" src="https://www.youtube.com/embed/uDqeOdaQ7iA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
            <br><br>
            <center><h2>Tedx Global Day</h2></center>
            <br>
-           <iframe src="https://www.youtube.com/watch?v=5yPEOk3JIgc" width="100%" height="400px"></iframe> 
-           
+<iframe width="100%" height="400px" src="https://www.youtube.com/embed/5yPEOk3JIgc?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>           
        </div>
            <?php include "includes/footer.php" ?>
     <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="display:none;">
