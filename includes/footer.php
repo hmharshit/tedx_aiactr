@@ -1,5 +1,5 @@
 
-<div class="row" id="footer" style="background-image: url('public/images/college1.jpeg'); background-size: cover; opacity: 0.6">
+<div class="row" id="footer" style="background-image: url('public/images/college1.jpg'); background-size: cover; opacity: 0.6">
     <div class="col-sm-12 col-md-6">
         <h3><font color="#ffffff">Important Links</h3>
         <a target="_blank" href="https://www.ted.com/"><font color="#ffffff"><strong>TED</strong></font></a><br>

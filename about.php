@@ -21,7 +21,7 @@
         Abou<m>t</m>
     </div>
     <div class="abt">
-        <center><h3><b><u>ABOUT TED</u></b></h3></center><br>
+        <center><h3><b><u>ABOUT <m>TED</m></u></b></h3></center><br>
     TEDx is an independently organized TED event which helps communities enjoy a TED like experience, through live speakers and videos of TED talks. Extensively conducted by leading universities and organizations, TEDx events have seen incredible growth across the globe. A TEDx event aims to make great ideas accessible and spark conversation among the members of the audience. Idea-centric, crisp, 18-minute deliverances by eminent personalities from diverse fields inspire and educate alike. The breaks provide ample time to strike up conversations with other enthusiasts, paving the way for interesting discussions and varied perspectives.</p>
         <br><br><center><h3><b><u>ABOUT AIACTR</u></b></h3></center><br>
    <p>    The Institute
@@ -38,7 +38,7 @@ Since then the institute has been developing tremendously as a Centre of Excelle
 In the 2015 survey of Government-owned technical institutions, the institute has been ranked 14th.
 </p>
 <br>
-<center><h3><b><u>ABOUT TEDxAIACTR</u></b></h3></center><br>
+<center><h3><b><u>ABOUT <m>TEDx</m>AIACTR</u></b></h3></center><br>
 <p>
 Envisioning the dissemination of quality technological institution, with emphasis on Industry-oriented needs and Research Ethics, the college stands upright as a team and is committed to bringing a positive wave of change in people's lives.
 <br><br>
