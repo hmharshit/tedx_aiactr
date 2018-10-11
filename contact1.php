@@ -25,7 +25,7 @@
 </head>
 <body>
 <?php include "header.php";?>
-   
+
     <div class="contact">
         <font size="17px">Contact Us</font>
         <div class="line"></div><br>
@@ -36,29 +36,30 @@
         <p><label><a href="tel:9716012061">Phone:- 9716012061</a></label> </p>
          <div class="map">
          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3501.1869477578434!2d77.2651855650831!3d28.654120532409273!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390cfc944ec6b523%3A0xd8bf72d453dbf662!2sAIACTR!5e0!3m2!1shi!2sin!4v1536816080393" height="500" width="100%" frameborder="0" allowfullscreen></iframe>
-    </div> 
+    </div>
        </div>
+       <form method="post" action="contactus.php">
 
        <div class="col-md-6">
-        
+
          <div class="form-group">
             <label>Name</label>
-            <input type="text" class="form-control">
+            <input type="text" name="contact_name" class="form-control">
          </div>
 
          <div class="form-group">
             <label>Email</label>
-            <input type="text" class="form-control">
+            <input type="text" name="contact_email"class="form-control">
          </div>
 
          <div class="form-group">
           <label>Phone no.</label>
-          <input type="text" class="form-control">
+          <input type="text" name="contact_no" class="form-control">
          </div>
 
          <div class="form-group">
             <label>Message</label>
-            <textarea  class="form-control" rows="4"></textarea>
+            <textarea  name="contact_message" class="form-control" rows="4"></textarea>
          </div>
 
          <div class="form-group">
@@ -66,6 +67,7 @@
          </div>
 
        </div>
+     </form>
 
     </div>
 
