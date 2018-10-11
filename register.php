@@ -48,9 +48,7 @@ $SQL_QUERY = "INSERT INTO registration_data
 $result = pg_query($db_connection, $SQL_QUERY);
 
 
-?>
 
-<?php
 
 // Import PHPMailer classes into the global namespace
 // These must be at the top of your script, not inside a function
@@ -85,7 +83,7 @@ try {
     $mail->AltBody = 'This is the body in plain text for non-HTML mail clients';
 
     $mail->send();
-    ///echo 'Mail has been sent';
+    //echo 'Mail has been sent';
 } catch (Exception $e) {
     echo 'Message could not be sent. Mailer Error: ', $mail->ErrorInfo;
 }
@@ -109,7 +107,13 @@ try {
     <!-- <div class="loader"></div> -->
 
       <?php include "header.php"; ?>
-    <img src="public/images/back.jpg">
+   <center>
+    <div class="thank">
+        <div class="fa fa-check-square-o" style="color: #33f23c; font-size: 90 px;"></div>
+        <h2>Thank You!</h2>
+        <h3>Your submission is recieved and we will contact you soon.</h3>
+    </div>
+</center>
 </center>
 
     <?php include "includes/footer.php";?>

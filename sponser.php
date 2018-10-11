@@ -15,13 +15,16 @@
     <link rel="stylesheet" type="text/css" href="public/css/gall.css">
 </head>
 <body>
+     <div class="loader"></div>
 <?php include "header.php";?>
     
     <div class="headi">
         Sponser<m>s</m>
     </div>
     <div class="spons">
-        
+        <img src="public/images/redca.png">
+        <p><h4>REDCAT</h4></p>
+
     </div> 
        <?php include "includes/footer.php" ?>
     <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="display:none;">
