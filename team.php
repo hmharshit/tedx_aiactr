@@ -145,19 +145,6 @@
                         <div class="row justify-content-center d-flex align-items-center">
                         <div class="col-lg-3 col-md-6 single-team">
                             <div class="thumb">
-                                <img class="img-fluid" src="public/images/team/aman.jpg" alt="">
-                                <div class="align-items-center justify-content-center d-flex">
-                                    <a href="#"><i class="fa fa-facebook"></i></a>
-                                    <a href="#"><i class="fa fa-twitter"></i></a>
-                                    <a href="#"><i class="fa fa-linkedin"></i></a>
-                                </div>
-                            </div>
-                            <div class="meta-text mt-30 text-center">
-                                <h4>Aman Trivedi</h4>                                       
-                            </div>
-                        </div>
-                        <div class="col-lg-3 col-md-6 single-team">
-                            <div class="thumb">
                                 <img class="img-fluid" src="public/images/team/anjali.jpg" alt="">
                                 <div class="align-items-center justify-content-center d-flex">
                                     <a href="#"><i class="fa fa-facebook"></i></a>
@@ -254,6 +241,19 @@
                                 <h4>Satvik</h4>                
                             </div>
                         </div>  
+                        <div class="col-lg-3 col-md-6 single-team">
+                            <div class="thumb">
+                                <img class="img-fluid" src="public/images/team/aman.jpg" alt="">
+                                <div class="align-items-center justify-content-center d-flex">
+                                    <a href="#"><i class="fa fa-facebook"></i></a>
+                                    <a href="#"><i class="fa fa-twitter"></i></a>
+                                    <a href="#"><i class="fa fa-linkedin"></i></a>
+                                </div>
+                            </div>
+                            <div class="meta-text mt-30 text-center">
+                                <h4>Aman Trivedi</h4>                                       
+                            </div>
+                        </div>
                        
                        
                         </div>   
