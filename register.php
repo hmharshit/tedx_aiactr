@@ -107,7 +107,13 @@ try {
     <!-- <div class="loader"></div> -->
 
       <?php include "header.php"; ?>
-    <img src="public/images/back.jpg">
+   <center>
+    <div class="thank">
+        <div class="fa fa-check-square-o" style="color: #33f23c; font-size: 90 px;"></div>
+        <h2>Thank You!</h2>
+        <h3>Your submission is recieved and we will contact you soon.</h3>
+    </div>
+</center>
 </center>
 
     <?php include "includes/footer.php";?>

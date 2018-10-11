@@ -20,10 +20,15 @@
     <div class="headi">
         Them<m>e</m>
     </div>
-    <div class="spons">
-        
-    </div> 
-       <?php include "includes/footer.php" ?>
+    <div class="vid">
+           <iframe src="https://youtu.be/uDqeOdaQ7iA" width="100%" height="400px"></iframe> 
+           <br><br>
+           <center><h2>Tedx Global Day</h2></center>
+           <br>
+           <iframe src="https://www.youtube.com/watch?v=5yPEOk3JIgc" width="100%" height="400px"></iframe> 
+           
+       </div>
+           <?php include "includes/footer.php" ?>
     <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="display:none;">
       <symbol id="close" viewBox="0 0 18 18">
         <path fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" d="M9,0.493C4.302,0.493,0.493,4.302,0.493,9S4.302,17.507,9,17.507

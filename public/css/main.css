@@ -4,6 +4,15 @@
 	background-image: url("public/images/conta.gif");
 	color: white;
 }
+.thank{
+	margin-top: 9%;
+	margin-bottom: 10%;
+	margin-left: 8%;
+	margin-right: 8%;
+}
+.vid{
+	margin: 5% 10% 5% 10%;
+}
 .line{
 	width: 100%;
 	border: 1px solid #ffffff;

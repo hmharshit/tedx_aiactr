@@ -2,9 +2,9 @@
 <div class="row" id="footer" style="background-image: url('public/images/college1.jpg'); background-size: cover; opacity: 0.6">
     <div class="col-sm-12 col-md-6">
         <h3><font color="#ffffff">Important Links</h3>
-        <a target="_blank" href="https://www.ted.com/"><font color="#ffffff"><strong>TED</strong></font></a><br>
-        <a target="_blank" href="https://www.ted.com/about/programs-initiatives/tedx-program"><font color="#ffffff"><strong>TEDx</strong></font></a><br>
-        <a target="_blank" href="https://blog.ted.com/"><font color="#ffffff"><strong>TED Blog</strong></font></a>
+        <a target="_blank" href="https://www.ted.com/" target="_blank"><font color="#ffffff"><strong>TED</strong></font></a><br>
+        <a target="_blank" href="https://www.ted.com/about/programs-initiatives/tedx-program" target="_blank"><font color="#ffffff"><strong>TEDx</strong></font></a><br>
+        <a target="_blank" href="https://blog.ted.com/" target="_blank"><font color="#ffffff"><strong>TED Blog</strong></font></a>
     </div>
     <div class="col-sm-12 col-md-6">
         <h3><font color="#ffffff">Curator</font></h3>

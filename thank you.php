@@ -16,7 +16,11 @@
     <?php
     include "header.php";?>
     <center>
-    <img src="public/images/back.jpg">
+    <div class="thank">
+        <div class="fa fa-check-square-o" style="color: #33f23c; font-size: 90px;"></div>
+        <h2>Thank You!</h2>
+        <h3>Your submission is recieved and we will contact you soon.</h3>
+    </div>
 </center>
 <?php include "includes/footer.php" ?>
     </div>

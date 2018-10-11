@@ -35,17 +35,17 @@
         </ul>
         <ul class="navbar-nav flex-row ml-md-auto d-none d-md-flex">
             <li class="nav-item media-icons">
-                <a class="nav-link" href="https://www.facebook.com/TEDxAIACTR/">
+                <a class="nav-link" href="https://www.facebook.com/TEDxAIACTR/" target="_blank">
                     <i style="font-size: 24px" class="fa fa-facebook" aria-hidden="true"></i>
                 </a>
             </li>
             <li class="nav-item media-icons">
-                <a class="nav-link" href="https://www.linkedin.com/company/13225447/">
+                <a class="nav-link" href="https://www.linkedin.com/company/13225447/" target="_blank">
                     <i style="font-size: 24px" class="fa fa-linkedin-square" aria-hidden="true"></i>
                 </a>
             </li>
             <li class="nav-item media-icons">
-                <a class="nav-link" href="https://www.instagram.com/tedxAIACTR/?hl=en">
+                <a class="nav-link" href="https://www.instagram.com/tedxAIACTR/?hl=en" target="_blank">
                     <i style="font-size: 24px" class="fa fa-instagram" aria-hidden="true"></i>
                 </a>
             </li>
