@@ -21,6 +21,9 @@
         Abou<m>t</m>
     </div>
     <div class="abt">
+        <center><h3><b><u>ABOUT <m>TED</m></u></b></h3></center><br>
+    TEDx is an independently organized TED event which helps communities enjoy a TED like experience, through live speakers and videos of TED talks. Extensively conducted by leading universities and organizations, TEDx events have seen incredible growth across the globe. A TEDx event aims to make great ideas accessible and spark conversation among the members of the audience. Idea-centric, crisp, 18-minute deliverances by eminent personalities from diverse fields inspire and educate alike. The breaks provide ample time to strike up conversations with other enthusiasts, paving the way for interesting discussions and varied perspectives.</p>
+        <br><br><center><h3><b><u>ABOUT AIACTR</u></b></h3></center><br>
    <p>    The Institute
 
 <b>Ambedkar Institute of Advanced Communication Technologies and Research (abbreviated AIACTR or AIT Delhi)</b> is a public engineering college located in Geeta Colony, East Delhi.<br><br>
@@ -33,8 +36,10 @@ The foundation stone for the new State-of-Art campus, was laid in 2006. The inst
 <br><br>
 Since then the institute has been developing tremendously as a Centre of Excellence, imparting quality technical education in the field of engineering. <br>
 In the 2015 survey of Government-owned technical institutions, the institute has been ranked 14th.
-<br><br>
-TEDxAIACTR
+</p>
+<br>
+<center><h3><b><u>ABOUT <m>TEDx</m>AIACTR</u></b></h3></center><br>
+<p>
 Envisioning the dissemination of quality technological institution, with emphasis on Industry-oriented needs and Research Ethics, the college stands upright as a team and is committed to bringing a positive wave of change in people's lives.
 <br><br>
 TEDxAIACTR is one such endeavour.<br>

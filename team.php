@@ -15,106 +15,316 @@
         <div class="loader"></div>
 
 <?php include "header.php" ?>
-  <!--   <div class="container" style="padding-top:5em; " ng-controller="teamController">
-        <h1>The Web Development Team</h1>
-        <div class="row">
-            <div class="col-md-3 col-sm-12">
-                <div class="our-team">
-                    <div class="pic">
-                        <img src="public/images/team/hemant.jpg">
+ 
+ <section class="team-area section-gap" id="team">
+                <div class="container">
+                    <div class="row d-flex justify-content-center">
+                        <div class="menu-content pb-70 col-lg-8">
+                            <div class="title text-center">
+                                <h1 class="mb-10">Meet Our Organisers</h1>
+                                <p></p>
+                            </div>
+                        </div>
+                    </div>                      
+                    <div class="row justify-content-center d-flex align-items-center">
+                        <div class="col-lg-3 col-md-6 single-team">
+                            <div class="thumb">
+                                <img class="img-fluid" src="public/images/team/Shashank.jpg" alt="">
+                                <div class="align-items-center justify-content-center d-flex">
+                                    <a href="#"><i class="fa fa-facebook"></i></a>
+                                    <a href="#"><i class="fa fa-twitter"></i></a>
+                                    <a href="#"><i class="fa fa-linkedin"></i></a>
+                                </div>
+                            </div>
+                            <div class="meta-text mt-30 text-center">
+                                <h4>Shashank Narayan</h4>
+                                <p></p>                                          
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-6 single-team">
+                            <div class="thumb">
+                                <img class="img-fluid" src="public/images/team/kamals.jpg" alt="">
+                                <div class="align-items-center justify-content-center d-flex">
+                                    <a href="#"><i class="fa fa-facebook"></i></a>
+                                    <a href="#"><i class="fa fa-twitter"></i></a>
+                                    <a href="#"><i class="fa fa-linkedin"></i></a>
+                                </div>
+                            </div>
+                            <div class="meta-text mt-30 text-center">
+                                <h4>Kamal Saurav</h4>
+                                <p></p>                  
+                            </div>
+                        </div>  
+                        <div class="col-lg-3 col-md-6 single-team">
+                            <div class="thumb">
+                                <img class="img-fluid" src="public/images/team/kamalg.jpg" alt="">
+                                <div class="align-items-center justify-content-center d-flex">
+                                    <a href="#"><i class="fa fa-facebook"></i></a>
+                                    <a href="#"><i class="fa fa-twitter"></i></a>
+                                    <a href="#"><i class="fa fa-linkedin"></i></a>
+                                </div>
+                            </div>
+                            <div class="meta-text mt-30 text-center">
+                                <h4>Kamal Gaurav</h4>
+                                <p></p>                  
+                            </div>
+                        </div>  
+                       
+                        </div>                                                                                                  
+                
                     </div>
-                    <div class="team-content">
-                        <h3 class="title">Hemant Rawat</h3>
-                        <span class="post">UI/UX Developer</span>
-                        <ul class="social">
-                            <li><a href="https://www.facebook.com/hemant.rawat.96995" target="_blank" class="fa fa-facebook"></a></li>
-                            <li><a href="https://www.linkedin.com/in/hemant-rawat-421748161/" target="_blank" class="fa fa-linkedin"></a></li>
-                        </ul>
+
+                </div><br><br> 
+                 <div class="container">
+                    <div class="row d-flex justify-content-center">
+                        <div class="menu-content pb-70 col-lg-8">
+                            <div class="title text-center">
+                                <h1 class="mb-10">Volunteers</h1>
+                                <p></p>
+                            </div>
+                        </div>
+                    </div>                      
+                    <div class="row justify-content-center d-flex align-items-center">
+                        <div class="col-lg-3 col-md-6 single-team">
+                            <div class="thumb">
+                                <img class="img-fluid" src="public/images/team/harshit.jpg" alt="">
+                                <div class="align-items-center justify-content-center d-flex">
+                                    <a href="#"><i class="fa fa-facebook"></i></a>
+                                    <a href="#"><i class="fa fa-twitter"></i></a>
+                                    <a href="#"><i class="fa fa-linkedin"></i></a>
+                                </div>
+                            </div>
+                            <div class="meta-text mt-30 text-center">
+                                <h4>Harshit Maheshwari</h4>                                       
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-6 single-team">
+                            <div class="thumb">
+                                <img class="img-fluid" src="public/images/team/hemant.jpg" alt="">
+                                <div class="align-items-center justify-content-center d-flex">
+                                    <a href="#"><i class="fa fa-facebook"></i></a>
+                                    <a href="#"><i class="fa fa-twitter"></i></a>
+                                    <a href="#"><i class="fa fa-linkedin"></i></a>
+                                </div>
+                            </div>
+                            <div class="meta-text mt-30 text-center">
+                                <h4>Hemant Rawat</h4>
+                                                
+                            </div>
+                        </div>  
+                        <div class="col-lg-3 col-md-6 single-team">
+                            <div class="thumb">
+                                <img class="img-fluid" src="public/images/team/ashu.jpg" alt="">
+                                <div class="align-items-center justify-content-center d-flex">
+                                    <a href="#"><i class="fa fa-facebook"></i></a>
+                                    <a href="#"><i class="fa fa-twitter"></i></a>
+                                    <a href="#"><i class="fa fa-linkedin"></i></a>
+                                </div>
+                            </div>
+                            <div class="meta-text mt-30 text-center">
+                                <h4>Ashirwad Barnwal</h4>                 
+                            </div>
+                        </div>  
+                         <div class="col-lg-3 col-md-6 single-team">
+                            <div class="thumb">
+                                <img class="img-fluid" src="public/images/team/prabhat.jpg" alt="">
+                                <div class="align-items-center justify-content-center d-flex">
+                                    <a href="#"><i class="fa fa-facebook"></i></a>
+                                    <a href="#"><i class="fa fa-twitter"></i></a>
+                                    <a href="#"><i class="fa fa-linkedin"></i></a>
+                                </div>
+                            </div>
+                            <div class="meta-text mt-30 text-center">
+                                <h4>Prabhat Sharma</h4>                
+                            </div>
+                        </div>  
+                       
+                       
+                        </div>      
+
+                        <div class="row justify-content-center d-flex align-items-center">
+                        <div class="col-lg-3 col-md-6 single-team">
+                            <div class="thumb">
+                                <img class="img-fluid" src="public/images/team/aman.jpg" alt="">
+                                <div class="align-items-center justify-content-center d-flex">
+                                    <a href="#"><i class="fa fa-facebook"></i></a>
+                                    <a href="#"><i class="fa fa-twitter"></i></a>
+                                    <a href="#"><i class="fa fa-linkedin"></i></a>
+                                </div>
+                            </div>
+                            <div class="meta-text mt-30 text-center">
+                                <h4>Aman Trivedi</h4>                                       
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-6 single-team">
+                            <div class="thumb">
+                                <img class="img-fluid" src="public/images/team/anjali.jpg" alt="">
+                                <div class="align-items-center justify-content-center d-flex">
+                                    <a href="#"><i class="fa fa-facebook"></i></a>
+                                    <a href="#"><i class="fa fa-twitter"></i></a>
+                                    <a href="#"><i class="fa fa-linkedin"></i></a>
+                                </div>
+                            </div>
+                            <div class="meta-text mt-30 text-center">
+                                <h4>Anjali Pushkar</h4>
+                                                
+                            </div>
+                        </div>  
+                        <div class="col-lg-3 col-md-6 single-team">
+                            <div class="thumb">
+                                <img class="img-fluid" src="public/images/team/dikshita.jpeg" alt="">
+                                <div class="align-items-center justify-content-center d-flex">
+                                    <a href="#"><i class=""></i></a>
+                                    <a href="https://plus.google.com/+Dikshita" target="_blank"><i class="fa fa-google"></i></a>
+                                    <a href="#"><i class=""></i></a>
+                                </div>
+                            </div>
+                            <div class="meta-text mt-30 text-center">
+                                <h4>Dikshita</h4>                 
+                            </div>
+                        </div>  
+                         <div class="col-lg-3 col-md-6 single-team">
+                            <div class="thumb">
+                                <img class="img-fluid" src="public/images/team/sourabh.jpg" alt="">
+                                <div class="align-items-center justify-content-center d-flex">
+                                    <a href="#"><i class="fa fa-facebook"></i></a>
+                                    <a href="#"><i class="fa fa-twitter"></i></a>
+                                    <a href="#"><i class="fa fa-linkedin"></i></a>
+                                </div>
+                            </div>
+                            <div class="meta-text mt-30 text-center">
+                                <h4>Sourabh</h4>                
+                            </div>
+                        </div>  
+                       
+                       
+                        </div>
+
+                        <div class="row justify-content-center d-flex align-items-center">
+                        <div class="col-lg-3 col-md-6 single-team">
+                            <div class="thumb">
+                                <img class="img-fluid" src="public/images/team/shadab.jpg" alt="">
+                                <div class="align-items-center justify-content-center d-flex">
+                                    <a href="#"><i class="fa fa-facebook"></i></a>
+                                    <a href="#"><i class="fa fa-twitter"></i></a>
+                                    <a href="#"><i class="fa fa-linkedin"></i></a>
+                                </div>
+                            </div>
+                            <div class="meta-text mt-30 text-center">
+                                <h4>Shadab</h4>                                       
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-6 single-team">
+                            <div class="thumb">
+                                <img class="img-fluid" src="public/images/team/jaggannath.jpg" alt="">
+                                <div class="align-items-center justify-content-center d-flex">
+                                    <a href="#"><i class="fa fa-facebook"></i></a>
+                                    <a href="#"><i class="fa fa-twitter"></i></a>
+                                    <a href="#"><i class="fa fa-linkedin"></i></a>
+                                </div>
+                            </div>
+                            <div class="meta-text mt-30 text-center">
+                                <h4>Jaggannath Jyanti</h4>
+                                                
+                            </div>
+                        </div>  
+                        <div class="col-lg-3 col-md-6 single-team">
+                            <div class="thumb">
+                                <img class="img-fluid" src="public/images/team/adityagarg1.jpg" alt="">
+                                <div class="align-items-center justify-content-center d-flex">
+                                    <a href="#"><i class="fa fa-facebook"></i></a>
+                                    <a href="#"><i class="fa fa-twitter"></i></a>
+                                    <a href="#"><i class="fa fa-linkedin"></i></a>
+                                </div>
+                            </div>
+                            <div class="meta-text mt-30 text-center">
+                                <h4>Aditya Garg</h4>                 
+                            </div>
+                        </div>  
+                         <div class="col-lg-3 col-md-6 single-team">
+                            <div class="thumb">
+                                <img class="img-fluid" src="public/images/team/satvik.jpg" alt="">
+                                <div class="align-items-center justify-content-center d-flex">
+                                    <a href="#"><i class="fa fa-facebook"></i></a>
+                                    <a href="#"><i class="fa fa-twitter"></i></a>
+                                    <a href="#"><i class="fa fa-linkedin"></i></a>
+                                </div>
+                            </div>
+                            <div class="meta-text mt-30 text-center">
+                                <h4>Satvik</h4>                
+                            </div>
+                        </div>  
+                       
+                       
+                        </div>   
+
+                       
+                        <div class="row justify-content-center d-flex align-items-center">
+                        <div class="col-lg-3 col-md-6 single-team">
+                            <div class="thumb">
+                                <img class="img-fluid" src="public/images/team/prakhar.jpg" alt="">
+                                <div class="align-items-center justify-content-center d-flex">
+                                    <a href="#"><i class="fa fa-facebook"></i></a>
+                                    <a href="#"><i class="fa fa-twitter"></i></a>
+                                    <a href="#"><i class="fa fa-linkedin"></i></a>
+                                </div>
+                            </div>
+                            <div class="meta-text mt-30 text-center">
+                                <h4>Prakhar Mishra</h4>                                       
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-6 single-team">
+                            <div class="thumb">
+                                <img class="img-fluid" src="public/images/team/pradhi.jpg" alt="">
+                                <div class="align-items-center justify-content-center d-flex">
+                                    <a href="#"><i class="fa fa-facebook"></i></a>
+                                    <a href="#"><i class="fa fa-twitter"></i></a>
+                                    <a href="#"><i class="fa fa-linkedin"></i></a>
+                                </div>
+                            </div>
+                            <div class="meta-text mt-30 text-center">
+                                <h4>Pradhi</h4>
+                                                
+                            </div>
+                        </div>  <!-- 
+                        <div class="col-lg-3 col-md-6 single-team">
+                            <div class="thumb">
+                                <img class="img-fluid" src="public/images/team/adityagarg1.jpg" alt="">
+                                <div class="align-items-center justify-content-center d-flex">
+                                    <a href="#"><i class="fa fa-facebook"></i></a>
+                                    <a href="#"><i class="fa fa-twitter"></i></a>
+                                    <a href="#"><i class="fa fa-linkedin"></i></a>
+                                </div>
+                            </div>
+                            <div class="meta-text mt-30 text-center">
+                                <h4>Ashirwad Barnwal</h4>                 
+                            </div>
+                        </div>  
+                         <div class="col-lg-3 col-md-6 single-team">
+                            <div class="thumb">
+                                <img class="img-fluid" src="public/images/team/satvik.jpg" alt="">
+                                <div class="align-items-center justify-content-center d-flex">
+                                    <a href="#"><i class="fa fa-facebook"></i></a>
+                                    <a href="#"><i class="fa fa-twitter"></i></a>
+                                    <a href="#"><i class="fa fa-linkedin"></i></a>
+                                </div>
+                            </div>
+                            <div class="meta-text mt-30 text-center">
+                                <h4>Prabhat Sharma</h4>                
+                            </div>
+                        </div>  
+                       
+                        -->
+                        </div>   
+
+                
                     </div>
-                </div>
-            </div><div class="col-md-3 col-sm-12">
-                <div class="our-team">
-                    <div class="pic">
+                    
+                </div>   
+                
+            </section>
 
 
-
-                        <img src="public/images/team/ashu.JPG">
-
-                    </div>
-                    <div class="team-content">
-                        <h3 class="title">Ashirwad Barnwal</h3>
-                        <span class="post">Animation Executive</span>
-                        <ul class="social">
-                            <li><a href="https://www.facebook.com/ashirwad.barnwal.5?fb_dtsg_ag=Adx7EsVsMrfHqaRn9tI1GX5jpg7qgQFxooaZQHCEn6VO5A%3AAdyoqcs3MyK6SqH85unO4uKEUHTbwChdBsCNndvVv_L8nQ" target="_blank" class="fa fa-facebook"></a></li>
-                            <li><a href="https://www.linkedin.com/in/ashirwad-barnwal-06544b149/" target="_blank" class="fa fa-linkedin"></a></li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-3 col-sm-12">
-                <div class="our-team">
-                    <div class="pic">
-                        <img src="public/images/team/harshit.jpg">
-
-                    </div>
-                    <div class="team-content">
-                        <h3 class="title">Harshit</h3>
-                        <span class="post">Database Administrator</span>
-                          <ul class="social">
-                            <li><a href="https://www.facebook.com/yoharshit" target="_blank" class="fa fa-facebook"></a></li>
-                            <li><a href="https://www.linkedin.com/in/hmharshit/" target="_blank" class="fa fa-linkedin"></a></li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-3 col-sm-12">
-                <div class="our-team">
-                    <div class="pic">
-                        <img src="public/images/team/prabhat.jpg">
-                    </div>
-                    <div class="team-content">
-                        <h3 class="title">Prabhat Sharma</h3>
-                        <span class="post">Web Developer</span>
-                        <ul class="social">
-                            <li><a href="https://www.facebook.com/people/Prabhat-Sharma/100006019236057" target="_blank" class="fa fa-facebook"></a></li>
-                            <li><a href="https://www.linkedin.com/in/prabhatkumarsharma/" target="_blank" class="fa fa-linkedin"></a></li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <h1>The Curator</h1>
-        <div class="row">
-            <div class="col-sm-12 col-md-3 col-md-offset-9">
-                <div class="our-team">
-                    <div class="pic">
-                        <img src="public/images/team/Shashank.jpg">
-                    </div>
-                    <div class="team-content">
-                        <h3 class="title">Shashank Narayan</h3>
-                        <span class="post">Curator</span>
-                        <ul class="social">
-                            <li><a href="https://www.facebook.com/narayanshashank" target="_blank" class="fa fa-facebook"></a></li>
-                            <li><a href="https://www.linkedin.com/in/narayanshashank" target="_blank" class="fa fa-linkedin"></a></li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>>
- -->
-  <br><br>
- <center><b><h3>ORGANISER</h3></b></center>
- <div class="row">
-    <img src="public/images/team/Shashank.jpg" style="width: 195px; height: 145px; margin-left: 600px; margin-top: 20px; margin-bottom: 20px;"> 
-</div>
-<center><b><h3>VOLUNTEER</h3></b></center>
-<div class="row">
-   <img src="public/images/team/hemant.jpg"style="width: 200px; height: 150px; margin-left: 150px; margin-top: 20px; margin-bottom: 20px;"> 
-   <img src="public/images/team/harshit.jpg"style="width: 200px; height: 150px; margin-left: 80px; margin-top: 20px; margin-bottom: 20px;"> 
-   <img src="public/images/team/ashu.jpg"style="width: 200px; height: 150px; margin-left: 80px; margin-top: 20px; margin-bottom: 20px;"> 
-   <img src="public/images/team/prabhat.jpg"style="width: 200px; height: 150px; margin-left: 80px; margin-top: 20px; margin-bottom: 20px;"> 
- </div>
     <?php include "includes/footer.php"; ?>
     <script type="text/javascript" src="external/js/jquery.min.js"></script>
     <script type="text/javascript" src="external/js/popper.min.js"></script>

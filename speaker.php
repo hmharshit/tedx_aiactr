@@ -19,9 +19,14 @@
     <?php include "header.php"; ?>
     <div class="headi">
         Speaker<m>s</m>
-    </div>
+    </div><!-- 
     <div class="coming">
         COMING <m>SOON</m>
+    </div> -->
+    <div class="join">
+        <a href="registration.php" class="fa fa-plus-circle" style="color: #010101;"></a>
+        <br>
+        <h4><b>SEE YOURSELF HERE</b></h4>
     </div> 
     <!-- 
     <div class="container-fluid">
