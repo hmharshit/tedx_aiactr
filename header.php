@@ -40,7 +40,7 @@
                 </a>
             </li>
             <li class="nav-item media-icons">
-                <a class="nav-link" href="https://www.linkedin.com/company/13225447/" target="_blank">
+                <a class="nav-link" href="https://www.linkedin.com/company/tedxaiactr" target="_blank">
                     <i style="font-size: 24px" class="fa fa-linkedin-square" aria-hidden="true"></i>
                 </a>
             </li>

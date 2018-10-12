@@ -33,8 +33,8 @@
 .join{ width: 32%;
 	margin-left: 40%;
 	margin-right: 40%;
-	margin-top: 10%;
-	margin-bottom: 10%;
+	margin-top: 6%;
+	margin-bottom: 6%;
 	padding: 20px 50px 20px 50px;	
 	/*border: 1px solid #010101; */
 	border-radius: 20px;
@@ -100,8 +100,8 @@ m{
 	padding-left: 400px;
 }
 .spons img{
-	width: 120px;
-	height: 90px;
+	width: 210px;
+	height: 100px;
 }
 .speak{
 	background-color: #010101;

@@ -14,8 +14,7 @@
     <link rel="stylesheet" type="text/css" href="public/css/main.css">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600">
     <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
-    
-<link rel="stylesheet" href="public/css/contact.css">
+    <link rel="stylesheet" href="public/css/contact.css">
 
 
    <style>
@@ -59,7 +58,7 @@
     </div> 
        </div>
 
-       <div class="col-md-6">
+       <div class="col-md-6 ">
        	
          <div class="form-group">
          	<label>Name</label>
