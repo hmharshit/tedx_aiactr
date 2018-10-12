@@ -15,7 +15,7 @@
         <div class="loader"></div>
 
 <?php include "header.php" ?>
- 
+
  <section class="team-area section-gap" id="team">
                 <div class="container">
                     <div class="row d-flex justify-content-center">
@@ -25,7 +25,7 @@
                                 <p></p>
                             </div>
                         </div>
-                    </div>                      
+                    </div>
                     <div class="row justify-content-center d-flex align-items-center">
                         <div class="col-lg-3 col-md-6 single-team">
                             <div class="thumb">
@@ -38,7 +38,7 @@
                             </div>
                             <div class="meta-text mt-30 text-center">
                                 <h4>Shashank Narayan</h4>
-                                <p></p>                                          
+                                <p></p>
                             </div>
                         </div>
                         <div class="col-lg-3 col-md-6 single-team">
@@ -50,29 +50,29 @@
                             </div>
                             <div class="meta-text mt-30 text-center">
                                 <h4>Kamal Saurav</h4>
-                                <p></p>                  
+                                <p></p>
                             </div>
-                        </div>  
+                        </div>
                         <div class="col-lg-3 col-md-6 single-team">
                             <div class="thumb">
                                 <img class="img-fluid" src="public/images/team/kamalg.jpg" alt="">
                                 <div class="align-items-center justify-content-center d-flex">
                                     <a href="https://www.facebook.com/kamal.gaurav.1" target="_blank"><i class="fa fa-facebook"></i></a>
-                                    
+
                                     <a href="https://www.linkedin.com/in/kamal-gaurav-a5823b9b/" target="_blank"><i class="fa fa-linkedin"></i></a>
                                 </div>
                             </div>
                             <div class="meta-text mt-30 text-center">
                                 <h4>Kamal Gaurav</h4>
-                                <p></p>                  
+                                <p></p>
                             </div>
-                        </div>  
-                       
-                        </div>                                                                                                  
-                
+                        </div>
+
+                        </div>
+
                     </div>
 
-                </div><br><br> 
+                </div><br><br>
                  <div class="container">
                     <div class="row d-flex justify-content-center">
                         <div class="menu-content pb-70 col-lg-8">
@@ -81,9 +81,9 @@
                                 <p></p>
                             </div>
                         </div>
-                    </div>                      
+                    </div>
                     <div class="row justify-content-center d-flex align-items-center">
-                        
+
                         <div class="col-lg-3 col-md-6 single-team">
                             <div class="thumb">
                                 <img class="img-fluid" src="public/images/team/hemant.jpg" alt="">
@@ -95,7 +95,7 @@
                             </div>
                             <div class="meta-text mt-30 text-center">
                                 <h4>Hemant Rawat</h4>
-                                                
+
                             </div>
                         </div>
                         <div class="col-lg-3 col-md-6 single-team">
@@ -108,12 +108,12 @@
                                 </div>
                             </div>
                             <div class="meta-text mt-30 text-center">
-                                <h4>Harshit Maheshwari</h4>                                       
+                                <h4>Harshit Maheshwari</h4>
                             </div>
-                        </div>  
+                        </div>
                         <div class="col-lg-3 col-md-6 single-team">
                             <div class="thumb">
-                                <img class="img-fluid" src="public/images/team/ashu.jpg" alt="">
+                                <img class="img-fluid" src="public/images/team/ashirwad.jpg" alt="">
                                 <div class="align-items-center justify-content-center d-flex">
                                     <a href="https://www.facebook.com/ashirwad.barnwal.5" target="_blank"><i class="fa fa-facebook"></i></a>
                                     <a href="https://www.instagram.com/ashirwad97/?hl=hi" target="_blank"><i class="fa fa-instagram"></i></a>
@@ -121,9 +121,9 @@
                                 </div>
                             </div>
                             <div class="meta-text mt-30 text-center">
-                                <h4>Ashirwad Barnwal</h4>                 
+                                <h4>Ashirwad Barnwal</h4>
                             </div>
-                        </div>  
+                        </div>
                          <div class="col-lg-3 col-md-6 single-team">
                             <div class="thumb">
                                 <img class="img-fluid" src="public/images/team/prabhat.jpg" alt="">
@@ -134,15 +134,15 @@
                                 </div>
                             </div>
                             <div class="meta-text mt-30 text-center">
-                                <h4>Prabhat Sharma</h4>                
+                                <h4>Prabhat Sharma</h4>
                             </div>
-                        </div>  
-                       
-                       
-                        </div>      
+                        </div>
+
+
+                        </div>
 
                         <div class="row justify-content-center d-flex align-items-center">
-                             
+
                         <div class="col-lg-3 col-md-6 single-team">
                             <div class="thumb">
                                 <img class="img-fluid" src="public/images/team/anjali.jpg" alt="">
@@ -151,9 +151,9 @@
                             </div>
                             <div class="meta-text mt-30 text-center">
                                 <h4>Anjali Pushkar</h4>
-                                                
+
                             </div>
-                        </div> 
+                        </div>
                              <div class="col-lg-3 col-md-6 single-team">
                             <div class="thumb">
                                 <img class="img-fluid" src="public/images/team/radhika.jpeg" alt="">
@@ -161,9 +161,9 @@
                                 </div>
                             </div>
                             <div class="meta-text mt-30 text-center">
-                                <h4>Radhika Singhal</h4>                
+                                <h4>Radhika Singhal</h4>
                             </div>
-                        </div>  
+                        </div>
                         <div class="col-lg-3 col-md-6 single-team">
                             <div class="thumb">
                                 <img class="img-fluid" src="public/images/team/dikshita.jpg" alt="">
@@ -174,9 +174,9 @@
                                 </div>
                             </div>
                             <div class="meta-text mt-30 text-center">
-                                <h4>Dikshita</h4>                 
+                                <h4>Dikshita</h4>
                             </div>
-                        </div>  
+                        </div>
                          <div class="col-lg-3 col-md-6 single-team">
                             <div class="thumb">
                                 <img class="img-fluid" src="public/images/team/sourabh.jpg" alt="">
@@ -184,11 +184,11 @@
                                 </div>
                             </div>
                             <div class="meta-text mt-30 text-center">
-                                <h4>Sourabh</h4>                
+                                <h4>Sourabh</h4>
                             </div>
-                        </div>  
-                       
-                       
+                        </div>
+
+
                         </div>
 
                         <div class="row justify-content-center d-flex align-items-center">
@@ -199,7 +199,7 @@
                                 </div>
                             </div>
                             <div class="meta-text mt-30 text-center">
-                                <h4>Shadab Alam</h4>                                       
+                                <h4>Shadab Alam</h4>
                             </div>
                         </div>
                         <div class="col-lg-3 col-md-6 single-team">
@@ -210,20 +210,20 @@
                             </div>
                             <div class="meta-text mt-30 text-center">
                                 <h4>Jaggannath Jyanti</h4>
-                                                
+
                             </div>
-                        </div>  
+                        </div>
                         <div class="col-lg-3 col-md-6 single-team">
                             <div class="thumb">
                                 <img class="img-fluid" src="public/images/team/adityagarg1.jpg" alt="">
                                 <div class="align-items-center justify-content-center d-flex">
-                                    
+
                                 </div>
                             </div>
                             <div class="meta-text mt-30 text-center">
-                                <h4>Aditya Garg</h4>                 
+                                <h4>Aditya Garg</h4>
                             </div>
-                        </div>  
+                        </div>
                          <div class="col-lg-3 col-md-6 single-team">
                             <div class="thumb">
                                 <img class="img-fluid" src="public/images/team/satvik.jpg" alt="">
@@ -231,15 +231,15 @@
                                 </div>
                             </div>
                             <div class="meta-text mt-30 text-center">
-                                <h4>Satvik</h4>                
+                                <h4>Satvik</h4>
                             </div>
-                        </div>  
-                       
-                       
-                       
-                        </div>   
+                        </div>
 
-                       
+
+
+                        </div>
+
+
                         <div class="row justify-content-center d-flex align-items-center">
                         <div class="col-lg-3 col-md-6 single-team">
                             <div class="thumb">
@@ -248,7 +248,7 @@
                                 </div>
                             </div>
                             <div class="meta-text mt-30 text-center">
-                                <h4>Prakhar Mishra</h4>                                       
+                                <h4>Prakhar Mishra</h4>
                             </div>
                         </div>
                         <div class="col-lg-3 col-md-6 single-team">
@@ -259,7 +259,7 @@
                             </div>
                             <div class="meta-text mt-30 text-center">
                                 <h4>Pradhi</h4>
-                                                
+
                             </div>
                         </div>
                          <div class="col-lg-3 col-md-6 single-team">
@@ -269,9 +269,9 @@
                                 </div>
                             </div>
                             <div class="meta-text mt-30 text-center">
-                                <h4>Aman Trivedi</h4>                                       
+                                <h4>Aman Trivedi</h4>
                             </div>
-                        </div>  
+                        </div>
                         <div class="col-lg-3 col-md-6 single-team">
                             <div class="thumb">
                                 <img class="img-fluid" src="public/images/team/ishan.jpg" alt="">
@@ -282,9 +282,9 @@
                                 </div>
                             </div>
                             <div class="meta-text mt-30 text-center">
-                                <h4>Ishan Jain</h4>                 
+                                <h4>Ishan Jain</h4>
                             </div>
-                        </div>  
+                        </div>
                          <!--div class="col-lg-3 col-md-6 single-team">
                             <div class="thumb">
                                 <img class="img-fluid" src="public/images/team/satvik.jpg" alt="">
@@ -295,18 +295,18 @@
                                 </div>
                             </div>
                             <div class="meta-text mt-30 text-center">
-                                <h4>Prabhat Sharma</h4>                
+                                <h4>Prabhat Sharma</h4>
                             </div>
-                        </div>  
-                       
-                        -->
-                        </div>   
+                        </div>
 
-                
+                        -->
+                        </div>
+
+
                     </div>
-                    
-                </div>   
-                
+
+                </div>
+
             </section>
 
 
@@ -316,6 +316,6 @@
     <script type="text/javascript" src="external/js/bootstrap.min.js"></script>
     <script type="text/javascript" src="external/js/angular.min.js"></script>
     <script type="text/javascript" src="public/js/index.js"></script>
-    
+
 </body>
 </html>
