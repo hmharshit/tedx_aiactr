@@ -43,18 +43,6 @@
                         </div>
                         <div class="col-lg-3 col-md-6 single-team">
                             <div class="thumb">
-                                <img class="img-fluid" src="public/images/team/kamals.jpg" alt="">
-                                <div class="align-items-center justify-content-center d-flex">
-                                    <a href="https://www.facebook.com/kalodepa" target="_blank"><i class="fa fa-facebook"></i></a>                                   <a href="https://www.linkedin.com/in/kamal-sourav-13797a157/" target="_blank"><i class="fa fa-linkedin"></i></a>
-                                </div>
-                            </div>
-                            <div class="meta-text mt-30 text-center">
-                                <h4>Kamal Saurav</h4>
-                                <p></p>
-                            </div>
-                        </div>
-                        <div class="col-lg-3 col-md-6 single-team">
-                            <div class="thumb">
                                 <img class="img-fluid" src="public/images/team/kamalg.jpg" alt="">
                                 <div class="align-items-center justify-content-center d-flex">
                                     <a href="https://www.facebook.com/kamal.gaurav.1" target="_blank"><i class="fa fa-facebook"></i></a>
@@ -64,6 +52,18 @@
                             </div>
                             <div class="meta-text mt-30 text-center">
                                 <h4>Kamal Gaurav</h4>
+                                <p></p>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-6 single-team">
+                            <div class="thumb">
+                                <img class="img-fluid" src="public/images/team/kamals.jpg" alt="">
+                                <div class="align-items-center justify-content-center d-flex">
+                                    <a href="https://www.facebook.com/kalodepa" target="_blank"><i class="fa fa-facebook"></i></a>                                   <a href="https://www.linkedin.com/in/kamal-sourav-13797a157/" target="_blank"><i class="fa fa-linkedin"></i></a>
+                                </div>
+                            </div>
+                            <div class="meta-text mt-30 text-center">
+                                <h4>Kamal Sourav</h4>
                                 <p></p>
                             </div>
                         </div>
