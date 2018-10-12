@@ -19,7 +19,7 @@
 <?php include "header.php";?>
     
     <div class="headi">
-        Sponser<m>s</m>
+        Sponsor<m>s</m>
     </div>
     <div class="spons">
         <img src="public/images/redca.png">
