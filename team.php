@@ -63,7 +63,7 @@
                                 </div>
                             </div>
                             <div class="meta-text mt-30 text-center">
-                                <h4>Kamal Sourav</h4>
+                                <h4>Dr Kamal Sourav</h4>
                                 <p></p>
                             </div>
                         </div>

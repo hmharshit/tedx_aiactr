@@ -33,7 +33,8 @@
     </div>
     <div class="col-4">
        <font color="#ffffff"> <h5>Curator</h5>
-       <span> Kamal Sourav</span>
+      Dr Kamal Sourav
+       +917678494023
          </font>
     </div>
 </div>
