@@ -25,7 +25,7 @@
         COMING <m>SOON</m>
     </div> -->
     <div class="join">
-        <a href="registration.php" class="fa fa-plus-circle" style="color: #010101; font-size: 300px;"></a>
+        <a href="registration.php" class="fa fa-plus-circle" style="color: #010101; font-size: 300px; text-align: center;"></a>
         <br>
         <h4><b>NOMINATE YOURSELF</b></h4>
     </div> 
