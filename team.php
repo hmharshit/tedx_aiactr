@@ -310,7 +310,7 @@
             </section>
 
 
-    <?php include "includes/footer.php"; ?>
+    <?php include "includes/footer1.php"; ?>
     <script type="text/javascript" src="external/js/jquery.min.js"></script>
     <script type="text/javascript" src="external/js/popper.min.js"></script>
     <script type="text/javascript" src="external/js/bootstrap.min.js"></script>

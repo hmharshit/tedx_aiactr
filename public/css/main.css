@@ -1,8 +1,42 @@
+.fot{
+	width: 100%;
+	padding: 5% 10% 5% 10%;
+	background-color: #010101;
+}
+input[type=email], select, textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    resize: vertical;
+}
+
+.fot1{
+	padding: 10px;
+	width: 30%;
+    float: left;
+}
+.fot2{
+	padding: 10px;
+	width: 40%;
+	float: left;
+}
+.fot3{
+	padding: 10px 20px 0px 10px;
+	width: 30%;
+	float: right;
+}
 .contact{
 	margin: 8% 10% 8% 10%;
 	padding: 10px; 
 	background-image: url("public/images/conta.gif");
 	color: white;
+	       @media screen and (max-width: 600px) {
+    .col-25, .col-75, input[type=submit] {
+        width: 100%;
+        margin-top: 0;
+    }
+}
 }
 .thank{
 	margin-top: 9%;
@@ -237,7 +271,7 @@ r{
 
 #footer {
 	padding: 30px 20px;
-	background-color: #333;
+	background-color: #010101;
 	width: 103%;
 }
 
