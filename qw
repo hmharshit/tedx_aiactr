@@ -1,0 +1,889 @@
+[33mcommit 3c2c1a6679eef959b83b214d1aba2fe624e1310e[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Hemant Rawat <hemantrawat9582@gmail.com>
+Date:   Fri Oct 12 22:23:03 2018 +0530
+
+    modification1
+
+[33mcommit db9bbf55de8d3894c86b3a0b3bb67e9abc659270[m
+Author: prabhat <prabhat.04011998@gmail.com>
+Date:   Fri Oct 12 21:11:29 2018 +0530
+
+    team background mast
+
+[33mcommit 2eaa627e20d87a600d2afeae700e17c17786f127[m
+Author: ashirwad007786 <ashirwadbarnwal15@gmail.com>
+Date:   Fri Oct 12 02:00:23 2018 +0530
+
+    team nd other minute details
+
+[33mcommit 1019166a744213043ddf22999b7341ae2e1d7c48[m
+Author: prabhat <prabhat.04011998@gmail.com>
+Date:   Thu Oct 11 22:50:31 2018 +0530
+
+    contact
+
+[33mcommit b4d6b14a92014d570d4f83f99d0861ed43563090[m
+Author: Hemant Rawat <hemantrawat9582@gmail.com>
+Date:   Thu Oct 11 22:33:04 2018 +0530
+
+    thankyou n blank
+
+[33mcommit 17a21b2938f14b266877bdde1157bcaa8d208f7f[m
+Author: Hemant Rawat <hemantrawat9582@gmail.com>
+Date:   Thu Oct 11 21:26:32 2018 +0530
+
+    contact1
+
+[33mcommit 8d5c9b0b7c44da06890e924f219d34a4ce7170f5[m
+Author: prabhat <prabhat.04011998@gmail.com>
+Date:   Thu Oct 11 20:12:49 2018 +0530
+
+    no changes
+
+[33mcommit dfc9e6b3f3eaa856503e9857f922f83ba2fdbddc[m
+Author: Harshit Maheshwari <hmharshit@gmail.com>
+Date:   Thu Oct 11 18:25:42 2018 +0530
+
+    merge conflict resolved
+
+[33mcommit b880301ec1950a41f3b83bb85dafefd95be7be8a[m
+Author: Harshit Maheshwari <hmharshit@gmail.com>
+Date:   Thu Oct 11 18:23:12 2018 +0530
+
+    merge conflict resolved
+
+[33mcommit 2fbaeca30ebd803a37c7ea7cfb2868a4b27abb5a[m
+Merge: 078acdc 6c8bf71
+Author: Harshit Maheshwari <hmharshit@gmail.com>
+Date:   Thu Oct 11 18:18:06 2018 +0530
+
+    merge conflict resolved
+
+[33mcommit 6c8bf71ace3c9f89cc4fc324e67c696f40d19ee2[m
+Merge: 87b2a87 cf2e15f
+Author: Harshit Maheshwari <hmharshit@gmail.com>
+Date:   Thu Oct 11 18:16:44 2018 +0530
+
+    Merge branch 'master' of https://bitbucket.org/hmharshit/tedx-aiactr
+
+[33mcommit cf2e15fc11da5103c640ff9c683a9f66fa029aa6[m
+Merge: d1f1d51 fe6fad4
+Author: Hemant Rawat <hemantrawat9582@gmail.com>
+Date:   Thu Oct 11 15:18:59 2018 +0530
+
+    Merge branch 'master' of https://bitbucket.org/hmharshit/tedx-aiactr
+
+[33mcommit d1f1d51dacfe14ac4629d50bb74ae03d578234de[m
+Author: Hemant Rawat <hemantrawat9582@gmail.com>
+Date:   Thu Oct 11 15:17:45 2018 +0530
+
+    team links
+
+[33mcommit fe6fad492597ad2800e4ee5cfdd70deaca0b2b3a[m
+Author: prabhat <prabhat.04011998@gmail.com>
+Date:   Thu Oct 11 13:47:59 2018 +0530
+
+    changes
+
+[33mcommit d1c7a780e858bae30a4b66e0ded70e474256dde8[m
+Author: prabhat <prabhat.04011998@gmail.com>
+Date:   Thu Oct 11 12:41:02 2018 +0530
+
+    compressed images
+
+[33mcommit e060963efbae660d989bc6edbd813f390d3912b7[m
+Author: prabhat <prabhat.04011998@gmail.com>
+Date:   Thu Oct 11 01:05:18 2018 +0530
+
+    fixes
+
+[33mcommit d01ca9a458de4ee8bc1add04d0f207fbeb86e54a[m
+Author: prabhat <prabhat.04011998@gmail.com>
+Date:   Thu Oct 11 00:42:45 2018 +0530
+
+    register fixes
+
+[33mcommit 078acdc0e649ac22328db84382a45fccbe1a09ab[m
+Merge: 259f8b8 3de0a0d
+Author: prabhat <prabhat.04011998@gmail.com>
+Date:   Wed Oct 10 23:58:46 2018 +0530
+
+    Merge branch 'master' into release
+
+[33mcommit 3de0a0d6774b03588a7b46bbd45c4fc913ab25b1[m
+Author: prabhat <prabhat.04011998@gmail.com>
+Date:   Wed Oct 10 23:57:39 2018 +0530
+
+    hello
+
+[33mcommit 900075398ac30e6122d8f24d8a60a5f658648b2d[m
+Author: Hemant Rawat <hemantrawat9582@gmail.com>
+Date:   Wed Oct 10 22:02:46 2018 +0530
+
+    about speaker footer
+
+[33mcommit 259f8b80049f4e9b5a6d76449a8928b55f493669[m
+Merge: a1079ba f723fb0
+Author: ASHIRWAD BARNWAL <ashirwadbarnwal15@gmail.com>
+Date:   Wed Oct 10 11:15:39 2018 +0000
+
+    Merged in master (pull request #16)
+    
+    Master
+
+[33mcommit f723fb076f271b95626d5becb8df2408330ff26d[m
+Author: ashirwad007786 <ashirwadbarnwal15@gmail.com>
+Date:   Wed Oct 10 16:34:46 2018 +0530
+
+    team page
+
+[33mcommit 25c455eb4ba770f732b414d1750c5cb014c4037e[m
+Author: ashirwad007786 <ashirwadbarnwal15@gmail.com>
+Date:   Wed Oct 10 15:30:26 2018 +0530
+
+    footer
+
+[33mcommit 563ba7f30bc88a198561719828ef1702327d6477[m
+Merge: 6c09250 acf3107
+Author: ashirwad007786 <ashirwadbarnwal15@gmail.com>
+Date:   Wed Oct 10 13:02:09 2018 +0530
+
+    Merge branch 'master' of https://bitbucket.org/hmharshit/tedx-aiactr
+
+[33mcommit 87b2a87fa0f305b459a53601eeee30a1493e313f[m
+Merge: 6c09250 acf3107
+Author: Harshit Maheshwari <hmharshit@gmail.com>
+Date:   Wed Oct 10 06:27:10 2018 +0530
+
+    Merge branch 'master' of https://bitbucket.org/hmharshit/tedx-aiactr
+
+[33mcommit a1079ba92b73069887ac253a53f0307bca181ef1[m
+Merge: 0d76502 acf3107
+Author: Harshit Maheshwari <hmharshit@gmail.com>
+Date:   Tue Oct 9 18:44:31 2018 +0000
+
+    Merged in master (pull request #15)
+    
+    team page
+
+[33mcommit acf310797f1017a57b094c31776bb169a82dc293[m
+Author: Hemant Rawat <hemantrawat9582@gmail.com>
+Date:   Wed Oct 10 00:11:58 2018 +0530
+
+    team page
+
+[33mcommit 0d7650216bd80f293d9988fa086704ec9bb8ec1c[m
+Merge: 444a5c4 5c21e4f
+Author: prabhat <prabhat.04011998@gmail.com>
+Date:   Tue Oct 9 17:34:15 2018 +0530
+
+    Merge branch 'master' into release
+
+[33mcommit 5c21e4f772187387300228a0bca4d329fa01275e[m
+Author: prabhat <prabhat.04011998@gmail.com>
+Date:   Tue Oct 9 17:22:36 2018 +0530
+
+    environment variable
+
+[33mcommit 444a5c496bac88dbb3c16986fa64f2c04fbeabd0[m
+Merge: e46b984 6c09250
+Author: Harshit Maheshwari <hmharshit@gmail.com>
+Date:   Tue Oct 9 06:42:05 2018 +0000
+
+    Merged in master (pull request #14)
+    
+    footer
+
+[33mcommit 6c0925019ff19cb94dbd6c494b3a59af67299251[m
+Merge: bff0040 d9e6d93
+Author: ashirwad007786 <ashirwadbarnwal15@gmail.com>
+Date:   Mon Oct 8 23:27:14 2018 +0530
+
+    Merge branch 'master' of https://bitbucket.org/hmharshit/tedx-aiactr
+
+[33mcommit bff004057db3e27c4ca6a3dda8d64c3aa1a3c1c8[m
+Author: ashirwad007786 <ashirwadbarnwal15@gmail.com>
+Date:   Mon Oct 8 23:20:44 2018 +0530
+
+    footer
+
+[33mcommit e46b984659aa4cf78ddec2f69f0d9528bf28ab9d[m
+Merge: d886df6 d9e6d93
+Author: Harshit Maheshwari <hmharshit@gmail.com>
+Date:   Mon Oct 8 23:11:51 2018 +0530
+
+    Merge branch 'master' into release
+
+[33mcommit d9e6d932dd2c1044fe8cc3f94843ea80db275bbb[m
+Merge: 71765c7 9ab8252
+Author: Harshit Maheshwari <hmharshit@gmail.com>
+Date:   Mon Oct 8 23:10:27 2018 +0530
+
+    Merge branch 'master' of https://bitbucket.org/hmharshit/tedx-aiactr
+
+[33mcommit 71765c7722400f905e4b0ee1971d6000a0a50734[m
+Author: Harshit Maheshwari <hmharshit@gmail.com>
+Date:   Mon Oct 8 23:08:48 2018 +0530
+
+    minor tweaks
+
+[33mcommit 9ab825291cb4f80c901db9cc5e7ae5edeab41d69[m
+Merge: 19b4575 1c0242b
+Author: prabhat <prabhat.04011998@gmail.com>
+Date:   Mon Oct 8 23:04:46 2018 +0530
+
+    Merge branch 'master' of https://bitbucket.org/hmharshit/tedx-aiactr
+
+[33mcommit 19b45758128fd09d4ff1e5bc37a363bd9c16aa96[m
+Author: prabhat <prabhat.04011998@gmail.com>
+Date:   Mon Oct 8 23:02:44 2018 +0530
+
+    country fix
+
+[33mcommit d886df6583d5d5041ae5f74e07e7e983ee4ba262[m
+Merge: b2dfdd5 c586a83
+Author: prabhat <prabhat.04011998@gmail.com>
+Date:   Mon Oct 8 20:26:47 2018 +0530
+
+    solve merge conflict
+
+[33mcommit b2dfdd5e67060e70b6dab5ec5c0709a4a5916577[m
+Author: prabhat <prabhat.04011998@gmail.com>
+Date:   Mon Oct 8 20:24:50 2018 +0530
+
+    solved
+
+[33mcommit 0a4b36e750f8e12be84a288d102861b7d0f37243[m
+Merge: 907d6f5 acce475
+Author: prabhat <prabhat.04011998@gmail.com>
+Date:   Mon Oct 8 20:20:13 2018 +0530
+
+    solve
+
+[33mcommit 1c0242bdcfe948bc3bdcf3b17f51e4e9a19ea89d[m
+Author: ashirwad007786 <ashirwadbarnwal15@gmail.com>
+Date:   Mon Oct 8 18:37:15 2018 +0530
+
+    contact and footer
+
+[33mcommit c586a836ce7566901ca83690a769184773cacc3c[m
+Author: prabhat <prabhat.04011998@gmail.com>
+Date:   Mon Oct 8 15:02:48 2018 +0530
+
+    img padding removed
+
+[33mcommit bb1f020af6ccb1508a3f41b7d2f1fd84537c85b6[m
+Author: prabhat <prabhat.04011998@gmail.com>
+Date:   Mon Oct 8 15:00:33 2018 +0530
+
+    header
+
+[33mcommit acce475750e1742462cdb035d344dd590d187f9d[m
+Merge: 2ca1007 d66ff2f
+Author: Harshit Maheshwari <hmharshit@gmail.com>
+Date:   Sun Oct 7 22:25:09 2018 +0000
+
+    Merged in master (pull request #13)
+    
+    Master
+
+[33mcommit d66ff2f55b07bb8a8140f215985ad883afee323e[m
+Author: ashirwad007786 <ashirwadbarnwal15@gmail.com>
+Date:   Mon Oct 8 03:25:48 2018 +0530
+
+    contact page new
+
+[33mcommit 1c493ad6388736551a056ae92455d88ca1a1c9e1[m
+Author: ashirwad007786 <ashirwadbarnwal15@gmail.com>
+Date:   Mon Oct 8 00:39:23 2018 +0530
+
+    index
+
+[33mcommit 2ca100718988635152c83a723947815d7e45f147[m
+Merge: 92ec1af c63b67b
+Author: Harshit Maheshwari <hmharshit@gmail.com>
+Date:   Sun Oct 7 10:21:25 2018 +0000
+
+    Merged in master (pull request #12)
+    
+    Master
+
+[33mcommit c63b67bab4ee7a2b969d8fdd2e656a161c9cdb41[m
+Author: Hemant Rawat <hemantrawat9582@gmail.com>
+Date:   Sun Oct 7 12:45:56 2018 +0530
+
+    contyact us
+
+[33mcommit f59473e113d983e72440ef1a01223d9e40a45fe2[m
+Author: Hemant Rawat <hemantrawat9582@gmail.com>
+Date:   Sun Oct 7 12:09:03 2018 +0530
+
+    logo
+
+[33mcommit 92ec1af0faeca5d6b00ff5d6a2cfafe98aa19db3[m
+Merge: 3865555 0ea9ec8
+Author: Harshit Maheshwari <hmharshit@gmail.com>
+Date:   Sat Oct 6 18:36:51 2018 +0000
+
+    Merged in master (pull request #11)
+    
+    Master
+
+[33mcommit 0ea9ec80356189047eb185476b6d3bf65b52e057[m
+Author: Hemant Rawat <hemantrawat9582@gmail.com>
+Date:   Sat Oct 6 23:51:47 2018 +0530
+
+    contact us
+
+[33mcommit 9ada6e3648762ec977e11c7eb322b34952512a90[m
+Author: prabhat <prabhat.04011998@gmail.com>
+Date:   Sat Oct 6 23:11:48 2018 +0530
+
+    fixes media icon
+
+[33mcommit fb58ed329e7c92458e1dff54d8a6bd2e87532966[m
+Author: prabhat <prabhat.04011998@gmail.com>
+Date:   Sat Oct 6 22:57:06 2018 +0530
+
+    fixes
+
+[33mcommit 2b3f7188abe930c29bc33a0a6067b52c141aa6ca[m
+Author: prabhat <prabhat.04011998@gmail.com>
+Date:   Sat Oct 6 22:28:43 2018 +0530
+
+    fixes
+
+[33mcommit 490bc7f31fb1d77e3099c42f106142d617c52741[m
+Author: prabhat <prabhat.04011998@gmail.com>
+Date:   Sat Oct 6 22:17:58 2018 +0530
+
+    change
+
+[33mcommit 7b44c74fcbd22a875641eea61f9fdb4ae8d7b89a[m
+Author: prabhat <prabhat.04011998@gmail.com>
+Date:   Sat Oct 6 22:13:14 2018 +0530
+
+    img fix
+
+[33mcommit 907d6f553f9afa958e14cf36d67cc993da23d385[m
+Author: prabhat <prabhat.04011998@gmail.com>
+Date:   Sat Oct 6 22:10:40 2018 +0530
+
+    fix
+
+[33mcommit a7f5a2d977169d2dcabc31d8fc0a89d5326105ba[m
+Merge: 3865555 54d4fc7
+Author: prabhat <prabhat.04011998@gmail.com>
+Date:   Sat Oct 6 21:44:52 2018 +0530
+
+    Merge branch 'master' of https://bitbucket.org/hmharshit/tedx-aiactr into release
+
+[33mcommit 54d4fc70b46f0455800f8e4d056492af503e486b[m
+Author: Hemant Rawat <hemantrawat9582@gmail.com>
+Date:   Sat Oct 6 21:43:07 2018 +0530
+
+    font of registration
+
+[33mcommit 3865555792b294b17530db7769e39e01b18465bf[m
+Merge: a700b2b d1a24c2
+Author: Hemant Rawat <hemantrawat9582@gmail.com>
+Date:   Sat Oct 6 15:48:15 2018 +0000
+
+    Merged in master (pull request #10)
+    
+    optimized gif
+
+[33mcommit d1a24c2dfeadfd008d08e0e27d32d1bd870a5ca2[m
+Author: Hemant Rawat <hemantrawat9582@gmail.com>
+Date:   Sat Oct 6 21:14:35 2018 +0530
+
+    optimized gif
+
+[33mcommit a700b2b698b18dd6d4fbf89e217cca4557f1b341[m
+Merge: c5f7786 6aed1a5
+Author: Harshit Maheshwari <hmharshit@gmail.com>
+Date:   Sat Oct 6 14:30:00 2018 +0000
+
+    Merged in master (pull request #9)
+    
+    Master
+
+[33mcommit 6aed1a58663397d612228275734c2b1800c99bb1[m
+Author: prabhat <prabhat.04011998@gmail.com>
+Date:   Sat Oct 6 18:12:09 2018 +0530
+
+    fixes
+
+[33mcommit c5f778659e02ce925db932aadff58f78c50c1972[m
+Author: prabhat <prabhat.04011998@gmail.com>
+Date:   Sat Oct 6 17:02:48 2018 +0530
+
+    font and lower line resolved
+
+[33mcommit 1945b1ba78e397d9f3c3debba9c0ab41c720eab6[m
+Author: Hemant Rawat <hemantrawat9582@gmail.com>
+Date:   Sat Oct 6 17:02:38 2018 +0530
+
+    link color
+
+[33mcommit ae610eea05c51871b25b1347ac98508d3d3e03e7[m
+Author: prabhat <prabhat.04011998@gmail.com>
+Date:   Sat Oct 6 16:57:03 2018 +0530
+
+    404 resolved
+
+[33mcommit 53d5268ea304893ca7af7e906af468bc92e8e0d0[m
+Merge: 1ddb2d6 2161ee8
+Author: Harshit Maheshwari <hmharshit@gmail.com>
+Date:   Sat Oct 6 11:00:03 2018 +0000
+
+    Merged in master (pull request #8)
+    
+    Master
+
+[33mcommit 2161ee8236a7bda51425e78aef0795f580bc0fae[m
+Author: Hemant Rawat <hemantrawat9582@gmail.com>
+Date:   Sat Oct 6 16:24:05 2018 +0530
+
+    scroll bar
+
+[33mcommit 4378f67093195ab8d10e66b767e7dd7f14032234[m
+Author: Hemant Rawat <hemantrawat9582@gmail.com>
+Date:   Sat Oct 6 15:53:29 2018 +0530
+
+    image
+
+[33mcommit c7efa1cc53657605be530cce8b6a0646eb3400c9[m
+Author: prabhat <prabhat.04011998@gmail.com>
+Date:   Thu Oct 4 23:50:56 2018 +0530
+
+    stable i think
+
+[33mcommit 8ae9a7b01428ccc5d4263791ade18e256229162c[m
+Merge: 9c11270 a3ccce2
+Author: prabhat <prabhat.04011998@gmail.com>
+Date:   Thu Oct 4 23:44:10 2018 +0530
+
+    Merge branch 'master' of https://bitbucket.org/hmharshit/tedx-aiactr
+
+[33mcommit a3ccce2afb248e6d6d82e62af02f0b18476b8239[m
+Author: ashirwad007786 <ashirwadbarnwal15@gmail.com>
+Date:   Thu Oct 4 22:33:24 2018 +0530
+
+    homepage
+
+[33mcommit 7c4a437b77d29cd200b6963c1d22a8a2ab78d085[m
+Author: ashirwad007786 <ashirwadbarnwal15@gmail.com>
+Date:   Thu Oct 4 17:37:08 2018 +0530
+
+    some text transition
+
+[33mcommit 9c1127086d2487c9f27f736f2844693459d66f6f[m
+Merge: 1bfbc27 25cada1
+Author: prabhat <prabhat.04011998@gmail.com>
+Date:   Wed Oct 3 19:39:35 2018 +0530
+
+    Merge branch 'master' of https://bitbucket.org/hmharshit/tedx-aiactr
+
+[33mcommit 25cada1e84c6c8f48dd481d17019b5a663d18aa1[m
+Author: ashirwad007786 <ashirwadbarnwal15@gmail.com>
+Date:   Wed Oct 3 13:38:40 2018 +0530
+
+    animation complete
+
+[33mcommit 1bfbc276134cd3c722beca2575ae07429f71b093[m
+Author: prabhat <prabhat.04011998@gmail.com>
+Date:   Tue Oct 2 23:26:18 2018 +0530
+
+    ese hi
+
+[33mcommit 91bb47b59c7bd22c7a1b03960cfe05a5af8f27b4[m
+Author: Hemant Rawat <hemantrawat9582@gmail.com>
+Date:   Tue Oct 2 21:19:56 2018 +0530
+
+    join us button
+
+[33mcommit 7cc4ee39bf4e68e2b57d9754b55d27120d9a3b98[m
+Author: Hemant Rawat <hemantrawat9582@gmail.com>
+Date:   Sun Sep 30 21:33:43 2018 +0530
+
+    sponser and speaker
+
+[33mcommit 04dff727447dc979c03d84a58247228544fb4dd7[m
+Author: prabhat <prabhat.04011998@gmail.com>
+Date:   Sun Sep 30 21:07:51 2018 +0530
+
+    mail integrated
+
+[33mcommit c01422e9de4679a60602a91f046bac4848f92997[m
+Author: prabhat <prabhat.04011998@gmail.com>
+Date:   Sat Sep 29 14:43:33 2018 +0530
+
+    php integration and included header,footer
+
+[33mcommit e89ce8b2b8970d0101cc9584cb1aa96a9834b284[m
+Author: prabhat <prabhat.04011998@gmail.com>
+Date:   Thu Sep 27 13:29:02 2018 +0530
+
+    multipage
+
+[33mcommit 0427f3cc89d73d8837a375a9cd61f38f5382e20b[m
+Author: prabhat <prabhat.04011998@gmail.com>
+Date:   Thu Sep 27 13:11:07 2018 +0530
+
+    registration font fix
+
+[33mcommit 432acdc31fe89c1a8813405fccde3b5e29d68201[m
+Merge: 1ddb2d6 d6d5666
+Author: Harshit Maheshwari <hmharshit@gmail.com>
+Date:   Wed Sep 26 19:45:51 2018 +0530
+
+    merge
+
+[33mcommit d6d5666dbca84a703f334399245984961341e7fb[m
+Author: prabhat <prabhat.04011998@gmail.com>
+Date:   Wed Sep 26 19:42:08 2018 +0530
+
+    include header and footer as diffrent page in home page
+
+[33mcommit e2e8e41a1ca6e64305d48fd8f1ba41cf2055a266[m
+Author: prabhat <prabhat.04011998@gmail.com>
+Date:   Wed Sep 26 18:44:01 2018 +0530
+
+    footer fixed
+
+[33mcommit 1ddb2d6c222354e34de9cd3c473c33e289d39090[m[33m ([m[1;31morigin/release[m[33m)[m
+Author: Harshit Maheshwari <hmharshit@gmail.com>
+Date:   Wed Sep 19 18:27:01 2018 +0530
+
+    coming soon
+
+[33mcommit e9e09753f7af90b4b177a7e06976c2cdf1689e1f[m
+Merge: 8a6a0a3 75d7903
+Author: Harshit Maheshwari <hmharshit@gmail.com>
+Date:   Wed Sep 19 18:23:57 2018 +0530
+
+    Merge branch 'release' of https://bitbucket.org/hmharshit/tedx-aiactr
+
+[33mcommit 8a6a0a3e9e6e14220252637b98ab6fd8df055f2b[m
+Author: Harshit Maheshwari <hmharshit@gmail.com>
+Date:   Wed Sep 19 18:21:55 2018 +0530
+
+    coming soon
+
+[33mcommit 75d79039e8ea9a5db94435daceafe89ae8c26fc9[m
+Merge: 58210b6 b2dc487
+Author: Harshit Maheshwari <hmharshit@gmail.com>
+Date:   Sun Sep 16 11:14:09 2018 +0000
+
+    Merged in master (pull request #7)
+    
+    animation completed
+
+[33mcommit b2dc4872a8611ca819a23065df41e73e45a98926[m
+Merge: 444ce6f 6576332
+Author: ashirwad007786 <ashirwadbarnwal15@gmail.com>
+Date:   Sun Sep 16 04:02:25 2018 -0700
+
+    Merge branch 'master' of https://bitbucket.org/hmharshit/tedx-aiactr
+
+[33mcommit 444ce6ff7ec1f845f3cce6ffca2e08280eeceb5d[m
+Author: ashirwad007786 <ashirwadbarnwal15@gmail.com>
+Date:   Sun Sep 16 04:01:22 2018 -0700
+
+    animation completed
+
+[33mcommit 58210b6e8d2ffd6f4c697885ad587d46141fbddd[m
+Merge: fda812f 6576332
+Author: Harshit Maheshwari <hmharshit@gmail.com>
+Date:   Sun Sep 16 10:18:16 2018 +0000
+
+    Merged in master (pull request #6)
+    
+    email key fixed
+
+[33mcommit 6576332e74c92a80057e530de3714fdad5801fa6[m
+Author: Harshit Maheshwari <hmharshit@gmail.com>
+Date:   Sun Sep 16 15:47:09 2018 +0530
+
+    email key fixed
+
+[33mcommit fda812f6fb310e15b60305fe70fa1c06184a81d2[m
+Merge: 58eafe2 13e9f6e
+Author: Harshit Maheshwari <hmharshit@gmail.com>
+Date:   Sun Sep 16 09:14:32 2018 +0000
+
+    Merged in master (pull request #5)
+    
+    Master
+
+[33mcommit 13e9f6efb30611b40b0a7701db7b3aed4c178ea9[m
+Author: ashirwad007786 <ashirwadbarnwal15@gmail.com>
+Date:   Sun Sep 16 02:02:59 2018 -0700
+
+    footer changes
+
+[33mcommit 58eafe23509a86640f3816b39bdb884087653d7f[m
+Author: Harshit Maheshwari <hmharshit@gmail.com>
+Date:   Sat Sep 15 17:42:37 2018 +0000
+
+    Merged in master (pull request #4)
+    
+    theme fixes
+
+[33mcommit cca2aca1bd73535434fabed20d4ad97a29e972b7[m
+Author: prabhat <prabhat.04011998@gmail.com>
+Date:   Sat Sep 15 23:01:30 2018 +0530
+
+    theme fixes
+
+[33mcommit c255a82f4ece5513e9f55a17a740c8d0b947b6a6[m
+Merge: 92a786b 40505de
+Author: Harshit Maheshwari <hmharshit@gmail.com>
+Date:   Sat Sep 15 17:12:57 2018 +0000
+
+    Merged in master (pull request #3)
+    
+    Master
+
+[33mcommit 40505de6d97b0b226ecbe50c17ccb44be0cec94c[m
+Author: prabhat <prabhat.04011998@gmail.com>
+Date:   Sat Sep 15 22:39:06 2018 +0530
+
+    fixes
+
+[33mcommit 3f4c894d974eed853c6e0c9c2a4a92461a1eeaa8[m
+Merge: a277c73 92a786b
+Author: Harshit Maheshwari <hmharshit@gmail.com>
+Date:   Sat Sep 15 13:17:20 2018 +0000
+
+    Merged in release (pull request #2)
+    
+    index issue fixes
+
+[33mcommit 92a786b9548418c1f4b0b2a5e6068f46bdeb9bca[m
+Author: Harshit Maheshwari <hmharshit@gmail.com>
+Date:   Sat Sep 15 18:45:03 2018 +0530
+
+    header icon removed
+
+[33mcommit 1d505253b90192937f06979c484e00fce44456b6[m
+Author: Harshit Maheshwari <hmharshit@gmail.com>
+Date:   Sat Sep 15 18:16:49 2018 +0530
+
+    index issue fixes
+
+[33mcommit a277c7395ba00bd09d169f34c8eb26fa796c9c74[m
+Author: Hemant Rawat <hemantrawat9582@gmail.com>
+Date:   Sat Sep 15 13:01:41 2018 +0530
+
+    final
+
+[33mcommit 1af392df8af1f62fa9524493d0274ffadd0ca620[m
+Author: Harshit Maheshwari <hmharshit@gmail.com>
+Date:   Sat Sep 15 09:25:03 2018 +0530
+
+    registring user form
+
+[33mcommit d3d27aa20231352141a103e1f66f03097cdf8676[m
+Author: Harshit Maheshwari <hmharshit@gmail.com>
+Date:   Sat Sep 15 06:59:56 2018 +0530
+
+    fixes
+
+[33mcommit 02c7cba90f5ef7e98793683ef2f1fea9bbd85089[m
+Author: Harshit Maheshwari <hmharshit@gmail.com>
+Date:   Fri Sep 14 14:01:27 2018 +0530
+
+    fixes
+
+[33mcommit bf39889f3142fe171ccfc11ec22f7af658e28178[m
+Merge: 4d7728d bf71a5e
+Author: Harshit Maheshwari <hmharshit@gmail.com>
+Date:   Fri Sep 14 13:57:03 2018 +0530
+
+    Merge branch 'master' of https://bitbucket.org/hmharshit/tedx-aiactr into release
+
+[33mcommit bf71a5e0b2c69fc400f84941a9d18cb732715a73[m
+Author: ASHIRWAD BARNWAL <ashirwadbarnwal15@gmail.com>
+Date:   Fri Sep 14 08:23:03 2018 +0000
+
+    team header update
+
+[33mcommit 4d7728d8a2321a6b82c0a73cadd2f7b1d33355f1[m
+Merge: 33d861d c519e3a
+Author: Harshit Maheshwari <hmharshit@gmail.com>
+Date:   Fri Sep 14 13:50:40 2018 +0530
+
+    Merge branch 'master' of https://bitbucket.org/hmharshit/tedx-aiactr into release
+
+[33mcommit 33d861d375ed1c35a7065265b6b00409ed43950c[m
+Author: Harshit Maheshwari <hmharshit@gmail.com>
+Date:   Fri Sep 14 13:50:07 2018 +0530
+
+    image size fixed
+
+[33mcommit c519e3a348c59b7a6b42813ab45f22a41f4c085d[m
+Author: ASHIRWAD BARNWAL <ashirwadbarnwal15@gmail.com>
+Date:   Fri Sep 14 07:42:50 2018 +0000
+
+    tedx logo fixed
+
+[33mcommit fc0b50d408c58abf5ace578a3027c66eca41a125[m[33m ([m[1;32mrelease[m[33m)[m
+Merge: 2731bc7 b0a544d
+Author: ashirwad007786 <ashirwadbarnwal15@gmail.com>
+Date:   Fri Sep 14 00:20:53 2018 -0700
+
+    Merge branch 'release' of https://bitbucket.org/hmharshit/tedx-aiactr into release
+
+[33mcommit c1b9bd339efab2292a459f5384110eed5c69426c[m
+Merge: 3a31263 b0a544d
+Author: ASHIRWAD BARNWAL <ashirwadbarnwal15@gmail.com>
+Date:   Fri Sep 14 07:18:54 2018 +0000
+
+    Merged in release (pull request #1)
+    
+    testing
+
+[33mcommit 2731bc7a4efc225961266c264fb25230c7b2a1c2[m
+Author: ashirwad007786 <ashirwadbarnwal15@gmail.com>
+Date:   Fri Sep 14 00:08:04 2018 -0700
+
+    animation loaded
+
+[33mcommit b0a544dc80862498b961d28cb4ffd33f9eafea41[m
+Author: Harshit Maheshwari <hmharshit@gmail.com>
+Date:   Fri Sep 14 09:33:56 2018 +0530
+
+    testing
+
+[33mcommit 3a3126375d0559f3758143a04bf2776d163781db[m
+Author: Harshit Maheshwari <hmharshit@gmail.com>
+Date:   Fri Sep 14 09:30:06 2018 +0530
+
+    testing
+
+[33mcommit 9138e97b64bcb09c80e947d6ff1aeac5c1e1af4b[m
+Merge: d5097c1 22ce153
+Author: Harshit Maheshwari <hmharshit@gmail.com>
+Date:   Fri Sep 14 07:16:55 2018 +0530
+
+    merge
+
+[33mcommit 22ce153b416e4d3dca31230f52b0ad1d419907ad[m
+Author: prabhat <prabhat.04011998@gmail.com>
+Date:   Thu Sep 13 23:06:42 2018 +0530
+
+    registration form
+
+[33mcommit 8063e5e855d036fa2945d5103fa2e28040fb623a[m
+Author: prabhat <prabhat.04011998@gmail.com>
+Date:   Thu Sep 13 23:00:55 2018 +0530
+
+    registration form
+
+[33mcommit b226cf7db21293e73a36c4cec593974aa7db4358[m
+Author: Hemant Rawat <hemantrawat9582@gmail.com>
+Date:   Thu Sep 13 21:59:18 2018 +0530
+
+    image0
+
+[33mcommit 4b7663fa951396458f95d653745730afd77accb2[m
+Merge: fcdc5f0 5b78cfa
+Author: Hemant Rawat <hemantrawat9582@gmail.com>
+Date:   Thu Sep 13 21:50:54 2018 +0530
+
+    image bug 2
+
+[33mcommit 5b78cfa7c5e03d7156a0d88aa5a4197ea51402a0[m
+Author: ashirwad007786 <ashirwadbarnwal15@gmail.com>
+Date:   Thu Sep 13 09:00:35 2018 -0700
+
+    image bug
+
+[33mcommit fcdc5f090ad206c7d574c8eeaed1325b37b555b9[m
+Author: Hemant Rawat <hemantrawat9582@gmail.com>
+Date:   Thu Sep 13 21:27:16 2018 +0530
+
+    image bug
+
+[33mcommit 2ef448cea9747795b77cc302e6d75371d819e71b[m
+Author: ashirwad007786 <ashirwadbarnwal15@gmail.com>
+Date:   Thu Sep 13 08:46:27 2018 -0700
+
+    animation remains
+
+[33mcommit 675f69c47ceaf7387a1e1f16bde34f40a04f06f1[m
+Author: Harshit Maheshwari <hmharshit@gmail.com>
+Date:   Thu Sep 13 15:36:20 2018 +0000
+
+    index.html edited online with Bitbucket
+
+[33mcommit 2c01e5b2482950146cf73024c7c10b557e91fa53[m
+Merge: 4ff90a5 f11ca94
+Author: ashirwad007786 <ashirwadbarnwal15@gmail.com>
+Date:   Thu Sep 13 08:25:53 2018 -0700
+
+    mfj
+
+[33mcommit f11ca942db5576502e98d914510f552c3b65baa5[m
+Author: ashirwad007786 <ashirwadbarnwal15@gmail.com>
+Date:   Thu Sep 13 08:13:52 2018 -0700
+
+    hv
+
+[33mcommit d5097c1c274e4b4121c711eacbfcfb4d49658056[m
+Author: Harshit Maheshwari <hmharshit@gmail.com>
+Date:   Wed Sep 12 21:49:18 2018 +0530
+
+    testing
+
+[33mcommit 473c5161e178eb6062f9693d009be3dbf5c1c847[m
+Author: Harshit Maheshwari <hmharshit@gmail.com>
+Date:   Wed Sep 12 21:47:44 2018 +0530
+
+    testing
+
+[33mcommit f0944cc765ebb3922152382d24d45497ba1d7c13[m
+Merge: 677efb1 fddc0c0
+Author: Harshit Maheshwari <hmharshit@gmail.com>
+Date:   Wed Sep 12 21:44:40 2018 +0530
+
+    merge
+
+[33mcommit 4ff90a5649158cb6dedcde9adaa913e0bcfe0e98[m
+Author: Hemant Rawat <hemantrawat9582@gmail.com>
+Date:   Wed Sep 12 16:24:28 2018 +0530
+
+    final skeleton
+
+[33mcommit 3991c281d686ac485d0489313af3dc079e7dbc9e[m
+Merge: 677efb1 fddc0c0
+Author: Hemant Rawat <hemantrawat9582@gmail.com>
+Date:   Wed Sep 12 07:41:28 2018 +0530
+
+    skeleton edit
+
+[33mcommit fddc0c00a7fe7442899320380e9a62f126be8150[m
+Author: Hemant Rawat <hemantrawat9582@gmail.com>
+Date:   Wed Sep 12 07:36:19 2018 +0530
+
+    skeleton added
+
+[33mcommit 677efb1a56ebfad28d25880165b724ed9d5f9dff[m
+Author: Harshit Maheshwari <hmharshit@gmail.com>
+Date:   Wed Sep 12 06:09:14 2018 +0530
+
+    testing pipelines
+
+[33mcommit 6ba650aa678f99729a4ca5352a7203ecf846bbcc[m
+Author: Harshit Maheshwari <hmharshit@gmail.com>
+Date:   Wed Sep 12 06:05:04 2018 +0530
+
+    testing pipelines
+
+[33mcommit cf153cbb89d9d62365de2820f14f007f363345a1[m
+Author: Harshit Maheshwari <hmharshit@gmail.com>
+Date:   Wed Sep 12 00:31:30 2018 +0000
+
+    Initial Bitbucket Pipelines configuration

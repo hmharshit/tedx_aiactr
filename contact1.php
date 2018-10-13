@@ -21,6 +21,61 @@
         a{
             color: white;
         }
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {
+    box-sizing: border-box;
+}
+
+input[type=text], select, textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    resize: vertical;
+}
+input[type=email], select, textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    resize: vertical;
+}
+input[type=submit] {
+    background-color: #df0024;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    float: right;
+}
+
+input[type=submit]:hover {
+    background-color: #010101;
+}
+
+.contaa{
+    border-radius: 5px;
+    background-color: #df0024;
+    padding: 20px;
+}
+
+/* Clear floats after the columns */
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+/* Responsive layout - when the screen is less than 600px wide, make the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+    .col-25, .col-75, input[type=submit] {
+        width: 100%;
+        margin-top: 0;
+    }
+}
+
     </style>
 </head>
 <body>
@@ -33,48 +88,31 @@
         <div class="row">
             <div class="col-md-6">
         <address><label>AIACTR Campus, Geeta Colony</label></address>
-        <p><label><a href="mailto:tedxaiactr@gmail.com">Email:- Tedxaiactr@gmail.com</a> </label></p>
+        <p><label><a href="mailto:tedxaiactr@gmail.com">Email:- tedxaiactr@gmail.com</a> </label></p>
         <p><label><a href="tel:9716012061">Phone:- 9716012061</a></label> </p>
          <div class="map">
-         <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3501.1869477578434!2d77.2651855650831!3d28.654120532409273!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390cfc944ec6b523%3A0xd8bf72d453dbf662!2sAIACTR!5e0!3m2!1shi!2sin!4v1536816080393" height="500" width="100%" frameborder="0" allowfullscreen></iframe>
+         <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3501.1869477578434!2d77.2651855650831!3d28.654120532409273!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390cfc944ec6b523%3A0xd8bf72d453dbf662!2sAIACTR!5e0!3m2!1shi!2sin!4v1536816080393" height="300" width="100%" frameborder="0" allowfullscreen></iframe>
     </div>
        </div>
-       <form method="post" action="contactus.php">
 
-       <div class="col-md-6">
-
-         <div class="form-group">
-            <label>Name</label>
-            <input type="text" name="contact_name" class="form-control">
-         </div>
-
-         <div class="form-group">
-            <label>Email</label>
-            <input type="text" name="contact_email"class="form-control">
-         </div>
-
-         <div class="form-group">
-          <label>Phone no.</label>
-          <input type="text" name="contact_no" class="form-control">
-         </div>
-
-         <div class="form-group">
-            <label>Message</label>
-            <textarea  name="contact_message" class="form-control" rows="4"></textarea>
-         </div>
-
-         <div class="form-group">
-            <button class="btn btn-primary btn-block">Send</button>
-         </div>
-
-       </div>
-     </form>
-
+ <div class="col-md-6">
+  <form action="contactus.php" method="post">
+        <input type="text" id="contact_name" name="firstname" placeholder="Your name..">
+    <br><br>
+        <input type="email" id="contact_email" name="lastname" placeholder="Your last name..">
+<br><br>
+        <input type="text" id="contact_no" name="lastname" placeholder="Your last name..">
+<br>    <br>   
+        <textarea id="subject" name="contact_message" placeholder="Write something.." style="height:200px"></textarea>
+  <br><br>
+      <input type="submit" value="Submit">
+  </form>
+</div>
     </div>
 
         </div>
     </div>
-       <?php include "includes/footer.php" ?>
+       <?php include "includes/footer1.php" ?>
     <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="display:none;">
       <symbol id="close" viewBox="0 0 18 18">
         <path fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" d="M9,0.493C4.302,0.493,0.493,4.302,0.493,9S4.302,17.507,9,17.507

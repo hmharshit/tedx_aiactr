@@ -63,7 +63,7 @@
                                 </div>
                             </div>
                             <div class="meta-text mt-30 text-center">
-                                <h4>Kamal Sourav</h4>
+                                <h4>Dr Kamal Sourav</h4>
                                 <p></p>
                             </div>
                         </div>
@@ -310,7 +310,7 @@
             </section>
 
 
-    <?php include "includes/footer.php"; ?>
+    <?php include "includes/footer1.php"; ?>
     <script type="text/javascript" src="external/js/jquery.min.js"></script>
     <script type="text/javascript" src="external/js/popper.min.js"></script>
     <script type="text/javascript" src="external/js/bootstrap.min.js"></script>
