@@ -28,7 +28,7 @@
             </li>
         </ul>
         <form>
-           <div class="row"> <input type="email" name="" placeholder="Your Email"><button class="btn btn-primary" style="margin-left: 35%; margin-top: 2%; font-size: 20px; background-color: #010101; border-color: #df0024;">Subscribe</button></div>
+           <div class="row"> <input type="email" name="" placeholder="Your Email"><button class="btn btn-primary" style=" margin-top: 2%; font-size: 20px; background-color: #010101; border-color: #df0024;">Subscribe</button></div>
         </form>
     </div>
     <div class="col-4">
