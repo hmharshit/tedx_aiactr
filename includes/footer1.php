@@ -28,13 +28,14 @@
             </li>
         </ul>
         <form>
-            <input type="email" name="" placeholder="Your Email">
+           <div class="row"> <input type="email" name="" placeholder="Your Email"><button class="btn btn-primary" style="margin-left: 35%; margin-top: 2%; font-size: 20px; background-color: #010101; border-color: #df0024;">Subscribe</button></div>
         </form>
     </div>
     <div class="col-4">
        <font color="#ffffff"> <h5>Curator</h5>
-      Dr Kamal Sourav
-       +917678494023
+      Dr Kamal Sourav<br>
+      <a href="tel:7678494023" style="color: white;">
+       +917678494023</a>
          </font>
     </div>
 </div>
