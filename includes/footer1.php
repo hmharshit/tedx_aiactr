@@ -31,12 +31,16 @@
            <div class="row"> <input type="email" name="" placeholder="Your Email"><button class="btn btn-primary" style=" margin-top: 2%; font-size: 20px; background-color: #010101; border-color: #df0024;">Subscribe</button></div>
         </form>
     </div>
-    <div class="col-4">
-       <font color="#ffffff"> <h5>Curator</h5>
+    <div class="col-4" style="padding-left: 5%;">
+       <font color="#ffffff"> <h4><font color="#ffffff"> Curator</font></h4>
       Dr Kamal Sourav<br>
       <a href="tel:7678494023" style="color: white;">
        +917678494023</a>
          </font>
     </div>
+</div>
+<br>
+<div style="text-align: center;">
+    <h6><font color="#ffffff">&copy; This independent TEDx event is operated under license from TED.</font></style></h6>
 </div>
 </div>

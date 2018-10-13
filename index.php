@@ -3,7 +3,7 @@
 <head>
     <meta name="theme-color" content="#a51e15" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-	<title>TEDxAIACTR | 2019</title>
+	<title>TEDxAIACTR | 2018</title>
     <link rel="icon" href="public/images/icon.png" type="image/gif" sizes="16x16">
 	<link rel="stylesheet" type="text/css" href="external/css/bootstrap.min.css">
 	<link rel="stylesheet" type="text/css" href="external/font-awesome-4.7.0/css/font-awesome.min.css">
@@ -73,15 +73,15 @@
                     <div class="tab-content">
                         <div id="aiactr" class="tab-pane fade">
                         <!-- <h4 class="card-title">TED</h4> -->
-                            <p class="para-tab sizePara">Established in the year 2001, by the government of the national capital territory of Delhi. The institution is affiliated to the GGSIPU. Institution is ranked at 14th position out of 25 technical institutes in India as per data quest magazine. It is developing as a centre of excellence imparting technical education in the field of engineering.</p>
+                            <p class="para-tab sizePara" style="text-align: justify;">Established in the year 2001, by the government of the national capital territory of Delhi. The institution is affiliated to the GGSIPU. Institution is ranked at 14th position out of 25 technical institutes in India as per data quest magazine. It is developing as a centre of excellence imparting technical education in the field of engineering.</p>
                         </div>
                         <div id="tedx" class="tab-pane fade in active show">
                         <!-- <h4 class="card-title">TEDx</h4> -->
-                            <p class="para-tab sizePara">TEDx is an independently organized TED event which helps communities enjoy a TED like experience, through live speakers and videos of TED talks. Extensively conducted by leading universities and organizations, TEDx events have seen incredible growth across the globe. A TEDx event aims to make great ideas accessible and spark conversation among the members of the audience. Idea-centric, crisp, 18-minute deliverances by eminent personalities from diverse fields inspire and educate alike. The breaks provide ample time to strike up conversations with other enthusiasts, paving the way for interesting discussions and varied perspectives.</p>
+                            <p class="para-tab sizePara" style="text-align: justify;">TEDx is an independently organized TED event which helps communities enjoy a TED like experience, through live speakers and videos of TED talks. Extensively conducted by leading universities and organizations, TEDx events have seen incredible growth across the globe. A TEDx event aims to make great ideas accessible and spark conversation among the members of the audience. Idea-centric, crisp, 18-minute deliverances by eminent personalities from diverse fields inspire and educate alike. The breaks provide ample time to strike up conversations with other enthusiasts, paving the way for interesting discussions and varied perspectives.</p>
                         </div>
                         <div id="tedx-aiactr" class="tab-pane fade">
                         <!-- <h4 class="card-title">TEDxAIACTR</h4> -->
-                            <p class="para-tab sizePara">Our team has worked tirelessly to deliver one of the highest quality TEDx events in India. TEDxaiactr is going to be held for the first time. So, the organising team is boosted up to make it a success and has put together a revolutionary line up of speakers consisting of artists, celebrities, industrialists, visionaries and motivators.</p>
+                            <p class="para-tab sizePara" style="text-align: justify;">Our team has worked tirelessly to deliver one of the highest quality TEDx events in India. TEDxaiactr is going to be held for the first time. So, the organising team is boosted up to make it a success and has put together a revolutionary line up of speakers consisting of artists, celebrities, industrialists, visionaries and motivators.</p>
                         </div>
                     </div>
                 </div>

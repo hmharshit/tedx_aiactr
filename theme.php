@@ -28,7 +28,7 @@
            <br>
 <iframe width="100%" height="400px" src="https://www.youtube.com/embed/5yPEOk3JIgc?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>           
        </div>
-           <?php include "includes/footer.php" ?>
+           <?php include "includes/footer1.php" ?>
     <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="display:none;">
       <symbol id="close" viewBox="0 0 18 18">
         <path fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" d="M9,0.493C4.302,0.493,0.493,4.302,0.493,9S4.302,17.507,9,17.507

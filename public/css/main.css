@@ -65,8 +65,6 @@ input[type=email], select, textarea {
 	text-align: justify;
 }
 .join{ width: 32%;
-	margin-left: 40%;
-	margin-right: 40%;
 	margin-top: 6%;
 	margin-bottom: 6%;
 	padding: 20px 50px 20px 50px;	
@@ -131,7 +129,7 @@ m{
 	width: 100%;
 	padding-top: 100px;
 	padding-bottom: 100px;
-	padding-left: 40%;
+	padding-left: 10%;
 }
 .spons img{
 	width: 210px;

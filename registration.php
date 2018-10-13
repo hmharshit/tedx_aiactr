@@ -20,6 +20,17 @@
 
 
 <script src="assets/registration.js" data-turbolinks-track="true"></script>
+<style>
+	input[type=submit] {
+    background-color: #df0024;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    float: right;
+}
+</style>
 </head>
 
 <body>
@@ -695,11 +706,11 @@
   </div>
   <div class='row'>
   <div class='col-md-2 pull-right action-button'>
-  <button class='btn btn-default form-control' style="background-color:rgb(52,58,64)">Submit</button>
-  </div>
+  <input type="submit" value="Submit">
+   </div>
   <div class='col-md-2 pull-right action-button'>
   <a href="http://www.ted.com">
-  <button class="btn btn-default form-control" style="background-color:rgb(52,58,64)" >Cancel</button></a>
+  <input type="submit" value="Cancel"></a>
   </div>
   </div>
   </form>
