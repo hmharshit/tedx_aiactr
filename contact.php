@@ -101,7 +101,7 @@ input[type=submit]:hover {
     <br><br>
         <input type="email" id="contact_email" name="lastname" placeholder="Your last name..">
 <br><br>
-        <input type="text" id="contact_no" name="lastname" placeholder="Your last name..">
+        <input type="text" id="contact_no" name="lastname" placeholder="Your contact_no..">
 <br>    <br>   
         <textarea id="subject" name="contact_message" placeholder="Write something.." style="height:200px"></textarea>
   <br><br>
