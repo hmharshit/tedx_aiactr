@@ -705,10 +705,10 @@
   </div>
   </div>
   <div class='row'>
-  <div class='col-md-2 pull-right action-button'>
+  <div class='col-2 pull-right action-button' style="padding-left: 30%;">
   <input type="submit" value="Submit">
    </div>
-  <div class='col-md-2 pull-right action-button'>
+  <div class='col-2 pull-right action-button' style="padding-left: 25%;">
   <a href="http://www.ted.com">
   <input type="submit" value="Cancel"></a>
   </div>
