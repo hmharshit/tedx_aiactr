@@ -5,14 +5,14 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="theme-color" content="#a51e15" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-	<title>TEDx-AIACTR | 2018</title>
+	<title>TEDx-AIACTR</title>
     <link rel="icon" href="public/images/icon.png" type="image/gif" sizes="16x16">
 	<link rel="stylesheet" type="text/css" href="external/css/bootstrap.min.css">
 	<link rel="stylesheet" type="text/css" href="external/font-awesome-4.7.0/css/font-awesome.min.css">
 	<link rel="stylesheet" type="text/css" href="public/css/main.css">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600">
 	<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
-    
+
 </head>
 <body>
      <div class="loader"></div>
@@ -20,7 +20,7 @@
     <?php include "header.php"; ?>
     <div class="headi">
         Speaker<m>s</m>
-    </div><!-- 
+    </div><!--
     <div class="coming">
         COMING <m>SOON</m>
     </div> -->
@@ -28,8 +28,8 @@
         <a href="registration.php" class="fa fa-plus-circle" style="color: #010101; font-size: 300px; text-align: center;"></a>
         <br>
         <h4><b>NOMINATE YOURSELF</b></h4>
-    </div> 
-    <!-- 
+    </div>
+    <!--
     <div class="container-fluid">
     	<div class="row">
             <div class="gallery" ng-app="app">
@@ -39,7 +39,7 @@
                 </figure>
             </div>
         </div> -->
-        
+
 <?php include "includes/footer1.php" ?>
     <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="display:none;">
       <symbol id="close" viewBox="0 0 18 18">

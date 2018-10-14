@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="theme-color" content="#a51e15" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-    <title>TEDx-AIACTR | 2018</title>
+    <title>TEDx-AIACTR </title>
     <link rel="icon" href="public/images/icon.png" type="image/gif" sizes="16x16">
     <link rel="stylesheet" type="text/css" href="external/css/bootstrap.min.css">
     <link rel="stylesheet" type="text/css" href="external/font-awesome-4.7.0/css/font-awesome.min.css">
@@ -102,7 +102,7 @@ input[type=submit]:hover {
         <input type="email" id="contact_email" name="lastname" placeholder="Your last name..">
 <br><br>
         <input type="text" id="contact_no" name="lastname" placeholder="Your contact_no..">
-<br>    <br>   
+<br>    <br>
         <textarea id="subject" name="contact_message" placeholder="Write something.." style="height:200px"></textarea>
   <br><br>
       <input type="submit" value="Submit">
