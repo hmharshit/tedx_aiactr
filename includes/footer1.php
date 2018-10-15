@@ -1,9 +1,11 @@
+
+
 <div class="fot">
 <div class="row">
-    
+
     <div class="col-4">
      <ul>
-        
+
          <li><a href=""><font color="#ffffff">TED</font></a></li>
          <li><a href=""><font color="#ffffff">TEDx</font></a></li>
          <li><a href=""><font color="#ffffff">TED Blog</font></a></li>
@@ -27,11 +29,12 @@
                 </a>
             </li>
         </ul-->
-        <form>
-           <div class="row"> <input type="email" name="" placeholder="Your Email"><button class="btn btn-primary" style=" margin-top: 2%; font-size: 20px; background-color: #010101; border-color: #df0024;">Subscribe</button></div>
+        <form method="post" action="subscribe.php">
+           <div class="row"> <input type="email" name="email" placeholder="Your Email">
+           <button class="btn btn-primary" style=" margin-top: 2%; font-size: 20px; background-color: #010101; border-color: #df0024;">Subscribe</button></div>
         </form>
     </div>
-    <div class="col-4" style="padding-left: 10%;">
+    <div class="col-4" style="padding-left: 5%;">
        <!--font color="#ffffff"> <h4><font color="#ffffff"> Curator</font></h4>
       Dr Kamal Sourav<br>
       <a href="tel:" style="color: white;">

@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="theme-color" content="#a51e15" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-    <title>TEDx-AIACTR | 2018</title>
+    <title>TEDx-AIACTR </title>
     <link rel="icon" href="public/images/icon.png" type="image/gif" sizes="16x16">
     <link rel="stylesheet" type="text/css" href="external/css/bootstrap.min.css">
     <link rel="stylesheet" type="text/css" href="external/font-awesome-4.7.0/css/font-awesome.min.css">
@@ -17,13 +17,13 @@
 <body>
      <div class="loader"></div>
 <?php include "header.php";?>
-    
+
     <div class="headi">
         Sponsor<m>s</m>
     </div>
     <div class="spons">
-        <img src="public/images/redc.png">
-    </div> 
+        <a href="http://www.redcatindia.com/" target="_blank"><img class="img-fluid" src="public/images/redc.png"></a>
+    </div>
        <?php include "includes/footer1.php" ?>
     <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="display:none;">
       <symbol id="close" viewBox="0 0 18 18">

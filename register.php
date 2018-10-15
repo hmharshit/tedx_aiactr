@@ -50,6 +50,7 @@ $result = pg_query($db_connection, $SQL_QUERY);
 
 
 
+
 // Import PHPMailer classes into the global namespace
 // These must be at the top of your script, not inside a function
 use PHPMailer\PHPMailer\PHPMailer;
@@ -97,7 +98,7 @@ try {
     <meta name="theme-color" content="#a51e15" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
   <link rel="icon" href="public/images/icon.png" type="image/gif" sizes="16x16">
-	<title>TEDxAIACTR | 2019</title>
+	<title>TEDxAIACTR</title>
     <link rel="icon" href="public/images/icon.png" type="image/gif" sizes="16x16">
 	<link rel="stylesheet" type="text/css" href="external/css/bootstrap.min.css">
 	<link rel="stylesheet" type="text/css" href="external/font-awesome-4.7.0/css/font-awesome.min.css">

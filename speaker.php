@@ -5,14 +5,63 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="theme-color" content="#a51e15" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-	<title>TEDx-AIACTR | 2018</title>
+	<title>TEDx-AIACTR</title>
     <link rel="icon" href="public/images/icon.png" type="image/gif" sizes="16x16">
 	<link rel="stylesheet" type="text/css" href="external/css/bootstrap.min.css">
 	<link rel="stylesheet" type="text/css" href="external/font-awesome-4.7.0/css/font-awesome.min.css">
 	<link rel="stylesheet" type="text/css" href="public/css/main.css">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600">
 	<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+<style>
     
+
+/* Font ico (Font-Awesome) */
+.elastic-fai-xl{
+    font-size:80px;
+}
+.elastic-fai-lg{
+    font-size:50px;
+}
+.elastic-fai-md{
+    font-size:40px;
+}
+.elastic-fai-sm{
+    font-size:30px;
+}
+.elastic-fai-xs{
+    font-size:20px;
+}
+/* Extra small devices */
+@media(max-width:544px){
+    .elastic-fai-group > .elastic-fai, .elastic-fai-xs{
+        font-size:20px;
+    }
+}
+/* Small devices */
+@media(min-width:544px){
+    .elastic-fai-group > .elastic-fai, .elastic-fai-sm{
+        font-size:30px;
+    }
+}
+/* Medium devices */
+@media(min-width:768px){
+    .elastic-fai-group > .elastic-fai, .elastic-fai-md{
+        font-size:40px;
+    }
+}
+/* Large devices */
+@media(min-width:992px){
+    .elastic-fai-group > .elastic-fai, .elastic-fai-lg{
+        font-size:50px;
+    }
+}
+/* Exrta Large devices */
+@media(min-width:1200px){
+    .elastic-fai-group > .elastic-fai, .elastic-fai-xl{
+        font-size:80px;
+    }
+}
+</style>
 </head>
 <body>
      <div class="loader"></div>
@@ -20,16 +69,17 @@
     <?php include "header.php"; ?>
     <div class="headi">
         Speaker<m>s</m>
-    </div><!-- 
+    </div><!--
     <div class="coming">
         COMING <m>SOON</m>
     </div> -->
     <div class="join">
-        <a href="registration.php" class="fa fa-plus-circle" style="color: #010101; font-size: 300px; text-align: center;"></a>
+    <a href="registration.php" class="fa fa-plus-circle" style="color: #010101; font-size: 100px;"></a>
         <br>
-        <h4><b>NOMINATE YOURSELF</b></h4>
-    </div> 
-    <!-- 
+        <h5><b>NOMINATE YOURSELF</b></h5>
+        <h6><b>Nomination has been started.</b></h6>
+    </div>
+    <!--
     <div class="container-fluid">
     	<div class="row">
             <div class="gallery" ng-app="app">
@@ -39,7 +89,7 @@
                 </figure>
             </div>
         </div> -->
-        
+
 <?php include "includes/footer1.php" ?>
     <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="display:none;">
       <symbol id="close" viewBox="0 0 18 18">

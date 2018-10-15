@@ -3,7 +3,7 @@
 <head>
     <meta name="theme-color" content="#a51e15" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-	<title>TEDxAIACTR | 2018</title>
+	<title>TEDxAIACTR </title>
     <link rel="icon" href="public/images/icon.png" type="image/gif" sizes="16x16">
 	<link rel="stylesheet" type="text/css" href="external/css/bootstrap.min.css">
 	<link rel="stylesheet" type="text/css" href="external/font-awesome-4.7.0/css/font-awesome.min.css">
@@ -23,7 +23,7 @@
             </div>
             <div class="col-sm-12">
 
-            
+
             <div class="col-sm-12 text-center" id="ted" style="top: 250px">
                 <a class="scrollable" href="#about"><span class="banTitle"><span class="boldspan">TED<sup>x</sup></span> AIACTR <span class="black">2019</span></span></a><br><br>
                 <a class="hvr-buzz" href="registration.php"><span class="boldspan">
@@ -97,7 +97,7 @@
     <script type="text/javascript" src="external/js/angular.min.js"></script>
 	<script type="text/javascript" src="public/js/index.js"></script>
     <script type="text/javascript" src="public/js/index.js"></script>
-    
+
     <script type="text/javascript" src="public/js/particles.min.js"></script>
     <script type="text/javascript" src="public/js/app.js"></script>
 

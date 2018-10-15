@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="theme-color" content="#a51e15" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-    <title>TEDx-AIACTR | 2018</title>
+    <title>TEDx-AIACTR </title>
     <link rel="icon" href="public/images/icon.png" type="image/gif" sizes="16x16">
     <link rel="stylesheet" type="text/css" href="external/css/bootstrap.min.css">
     <link rel="stylesheet" type="text/css" href="external/font-awesome-4.7.0/css/font-awesome.min.css">
@@ -17,7 +17,7 @@
 <body>
      <div class="loader"></div>
 <?php include "header.php";?>
-    
+
     <div class="headi">
         Abou<m>t</m>
     </div>
@@ -29,7 +29,7 @@
 
 <b>Ambedkar Institute of Advanced Communication Technologies and Research (abbreviated AIACTR or AIT Delhi)</b> is a public engineering college located in Geeta Colony, East Delhi.<br><br>
 
-It was established in 2001 by the Government of the National Capital Territory of Delhi , to cater to the ever-increasing industrial demand for technical manpower. 
+It was established in 2001 by the Government of the National Capital Territory of Delhi , to cater to the ever-increasing industrial demand for technical manpower.
 <br><br>
 The institute, as a matter of fact, enjoys a prime and central location, in the vicinity of Metro Stations: Shastri Park on the Red Line, and Nirman Vihar on the Blue Line. This ensures, it is convenient to reach by one and all.
 <br><br>
@@ -44,10 +44,10 @@ In the 2015 survey of Government-owned technical institutions, the institute has
 Envisioning the dissemination of quality technological institution, with emphasis on Industry-oriented needs and Research Ethics, the college stands upright as a team and is committed to bringing a positive wave of change in people's lives.
 <br><br>
 TEDxAIACTR is one such endeavour.<br>
- A  multitude of highly enthusiastic students work together collaborating in teams, so as to organize an efficient platform for the surge of ideas, knowledge and opinion, worth spreading ! 
+ A  multitude of highly enthusiastic students work together collaborating in teams, so as to organize an efficient platform for the surge of ideas, knowledge and opinion, worth spreading !
 <br><br>
 For eminent and resourceful speakers, from artists to industrialists, all from multi-disciplinary backgrounds to grace the event with their ideas, knowledge and experiences in the form of short talks in any discipline, be it- Technology, Entertainment, Design, Science, Humanities, Business, Development or any other field.
-    </p></div> 
+    </p></div>
        <?php include "includes/footer1.php" ?>
     <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="display:none;">
       <symbol id="close" viewBox="0 0 18 18">
