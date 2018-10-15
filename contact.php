@@ -97,11 +97,11 @@ input[type=submit]:hover {
 
  <div class="col-md-6">
   <form action="contactus.php" method="post">
-        <input type="text" id="contact_name" name="firstname" placeholder="Your name.." required>
+        <input type="text" id="contact_name" name="name" placeholder="Your name.." required>
     <br><br>
-        <input type="email" id="contact_email" name="lastname" placeholder="Your last name.." required>
+        <input type="email" id="contact_email" name="email" placeholder="Your Email.." required>
 <br><br>
-        <input type="text" id="contact_no" name="lastname" placeholder="Your contact_no.." required >
+        <input type="text" id="contact_no" name="number" placeholder="Your Contact Number.." required >
 <br>    <br>
         <textarea id="subject" name="contact_message" placeholder="Write something.." style="height:200px" required></textarea>
   <br><br>
