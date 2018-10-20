@@ -48,7 +48,7 @@ TEDxAIACTR is one such endeavour.<br>
 <br><br>
 For eminent and resourceful speakers, from artists to industrialists, all from multi-disciplinary backgrounds to grace the event with their ideas, knowledge and experiences in the form of short talks in any discipline, be it- Technology, Entertainment, Design, Science, Humanities, Business, Development or any other field.
     </p></div>
-       <?php include "includes/footer1.php" ?>
+       <?php include "includes/footer.php" ?>
     <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="display:none;">
       <symbol id="close" viewBox="0 0 18 18">
         <path fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" d="M9,0.493C4.302,0.493,0.493,4.302,0.493,9S4.302,17.507,9,17.507
