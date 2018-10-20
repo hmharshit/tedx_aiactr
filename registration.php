@@ -717,7 +717,7 @@
   </div>
   </div>
   </div>
-  <?php include "includes/footer1.php"; ?>
+  <?php include "includes/footer.php"; ?>
 
 
 
