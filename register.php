@@ -86,7 +86,7 @@ function tedmail($to,$toname,$body){
 
       //Content
       $mail->isHTML(true);                                  // Set email format to HTML
-      $mail->Subject = 'subject';
+      $mail->Subject = 'Confirmation From TEDxAIACTR';
       $mail->Body    = $body;
       $mail->AltBody = 'This is the body in plain text for non-HTML mail clients';
 
