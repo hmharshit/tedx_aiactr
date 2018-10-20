@@ -88,7 +88,7 @@
             </div>
             <!--div style="width: 100%"><iframe width="100%" height="300" src="https://www.google.com/maps/embed?pb=!1m23!1m12!1m3!1d3501.182691981304!2d77.26583481508312!3d28.654247982409228!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x390cfc944ec6b523%3A0xd8bf72d453dbf662!2zQUlBQ1RSLCDgpJfgpYDgpKTgpL4g4KSV4KWJ4KSy4KWL4KSo4KWALCDgpKjgpIgg4KSm4KS_4KSy4KWN4KSy4KWALCDgpKbgpL_gpLLgpY3gpLLgpYAgMTEwMDMx!3m2!1d28.654248!2d77.2680235!5e0!3m2!1shi!2sin!4v1538568164745" width="100%" height="300" frameborder=""0" style="border:0" scrolling="no"></iframe-->
 
-        <?php include "includes/footer1.php" ?>
+        <?php include "includes/footer.php" ?>
 
     </div>
 	<script type="text/javascript" src="external/js/jquery.min.js"></script>
