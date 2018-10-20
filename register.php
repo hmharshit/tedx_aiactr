@@ -58,7 +58,6 @@ use PHPMailer\PHPMailer\Exception;
 $user_email=$nominee_email;
 $user_name=$nominee_first_name;
 $user_body='Hello user';
-$organiser_email='tedxaiactr@gmail.com';
 $organiser_name='TEDxAIACTR';
 $organiser_body='Hello organisers';
 
@@ -96,9 +95,8 @@ function tedmail($to,$toname,$body){
   }
 
 }
-tedmail($user_email,$user_name,$user_body);
-tedmail($organiser_email,$organiser_name,$organiser_body);
-
+tedmail($user_email,$user_name,$user_body); // trigger confirmation email to nominator
+tedmail(getenv("EMAIL_CC"),$organiser_name,$organiser_body);  // triggering email to us for our reference
 
 ?>
 
