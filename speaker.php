@@ -12,6 +12,7 @@
 	<link rel="stylesheet" type="text/css" href="public/css/main.css">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600">
 	<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+
 <style>
     
 
@@ -74,10 +75,13 @@
         COMING <m>SOON</m>
     </div> -->
     <div class="join">
+        <div class="spea">
+        <div class="text-center">
     <a href="registration.php" class="fa fa-plus-circle" style="color: #010101; font-size: 100px;" target="_blank"></a>
-        <br>
+        </div><br>
         <h5><b>NOMINATE YOURSELF</b></h5>
         <h6><b>Nomination has been started.</b></h6>
+    </div>
     </div>
     <!--
     <div class="container-fluid">
