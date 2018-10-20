@@ -8,6 +8,4 @@ $SQL_QUERY = "INSERT INTO subscribe
 
 // querying in database
 $result = pg_query($db_connection, $SQL_QUERY);
-
-
 ?>
