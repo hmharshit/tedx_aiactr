@@ -3,7 +3,7 @@
 <div class="fot">
 <div class="row">
 
-    <div class="col-4">
+    <div class="col-4" >
      <ul>
 
          <li><a href=""><font color="#ffffff">TED</font></a></li>
@@ -41,7 +41,7 @@
        +917678494023</a>
          </font-->
                  <ul class="navbar-nav flex-row ml-md-auto d-md-flex">
-            <li class="nav-item media-icons">
+            <li class="nav-item media-icons ">
                 <a class="nav-link" href="https://www.facebook.com/TEDxAIACTR/" target="_blank">
                     <i style="font-size: 24px; color: #ffffff;" class="fa fa-facebook" aria-hidden="true"></i>
                 </a>

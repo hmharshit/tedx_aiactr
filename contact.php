@@ -97,11 +97,11 @@ input[type=submit]:hover {
 
  <div class="col-md-6">
   <form action="contactus.php" method="post">
-        <input type="text" id="contact_name" name="name" placeholder="Your name.." required>
+        <input type="text" id="contact_name" name="contact_name" placeholder="Your name.." required>
     <br><br>
-        <input type="email" id="contact_email" name="email" placeholder="Your Email.." required>
+        <input type="email" id="contact_email" name="contact_email" placeholder="Your Email.." required>
 <br><br>
-        <input type="text" id="contact_no" name="number" placeholder="Your Contact Number.." required >
+        <input type="text" id="contact_no" name="contact_no" placeholder="Your Contact Number.." required >
 <br>    <br>
         <textarea id="subject" name="contact_message" placeholder="Write something.." style="height:200px" required></textarea>
   <br><br>
@@ -112,7 +112,7 @@ input[type=submit]:hover {
 
         </div>
     </div>
-       <?php include "includes/footer1.php" ?>
+       <?php include "includes/footer.php" ?>
     <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="display:none;">
       <symbol id="close" viewBox="0 0 18 18">
         <path fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" d="M9,0.493C4.302,0.493,0.493,4.302,0.493,9S4.302,17.507,9,17.507

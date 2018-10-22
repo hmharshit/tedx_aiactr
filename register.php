@@ -55,40 +55,48 @@ $result = pg_query($db_connection, $SQL_QUERY);
 // These must be at the top of your script, not inside a function
 use PHPMailer\PHPMailer\PHPMailer;
 use PHPMailer\PHPMailer\Exception;
+$user_email=$nominee_email;
+$user_name=$nominee_first_name;
+$user_body='Hello user';
+$organiser_name='TEDxAIACTR';
+$organiser_body='Hello organisers';
 
 //Load Composer's autoloader
 require 'vendor/autoload.php';
+function tedmail($to,$toname,$body){
 
-$mail = new PHPMailer(true);                              // Passing `true` enables exceptions
-try {
-    //Server settings
-    $mail->SMTPDebug = 0;                                 // Enable verbose debug output
-    $mail->isSMTP();                                      // Set mailer to use SMTP
-    $mail->Host = 'email-smtp.us-east-1.amazonaws.com';  // Specify main and backup SMTP servers
-    $mail->SMTPAuth = true;                               // Enable SMTP authentication
-     $mail->Username = getenv("EMAIL_USERNAME");                 // SMTP username
-    $mail->Password = getenv("EMAIL_PASSWORD");                           // SMTP password
-    $mail->SMTPSecure = 'tls';                            // Enable TLS encryption, `ssl` also accepted
-    $mail->Port = 587;                                    // TCP port to connect to
+  $mail = new PHPMailer(true);                              // Passing `true` enables exceptions
+  try {
+      //Server settings
+      $mail->SMTPDebug = 0;                                 // Enable verbose debug output
+      $mail->isSMTP();                                      // Set mailer to use SMTP
+      $mail->Host = 'email-smtp.us-east-1.amazonaws.com';  // Specify main and backup SMTP servers
+      $mail->SMTPAuth = true;                               // Enable SMTP authentication
+      $mail->Username = getenv("EMAIL_USERNAME");                 // SMTP username
+      $mail->Password = getenv("EMAIL_PASSWORD");                // SMTP password
+      $mail->SMTPSecure = 'tls';                            // Enable TLS encryption, `ssl` also accepted
+      $mail->Port = 587;                                    // TCP port to connect to
 
-    //Recipients
-    $mail->setFrom('noreply@tedxaiactr.com', 'TEDx AIACTR');
-    $mail->addAddress($nominee_email, $nominee_first_name);     // Add a recipient
+      //Recipients
+      $mail->setFrom('noreply@tedxaiactr.com', 'TEDx AIACTR');
+      $mail->addAddress($to, $toname);     // Add a recipient
 
 
 
-    //Content
-    $mail->isHTML(true);                                  // Set email format to HTML
-    $mail->Subject = 'subject';
-    $mail->Body    = 'hello gyus developers of aiactr';
-    $mail->AltBody = 'This is the body in plain text for non-HTML mail clients';
+      //Content
+      $mail->isHTML(true);                                  // Set email format to HTML
+      $mail->Subject = 'Confirmation From TEDxAIACTR';      $mail->Body    = $body;
+      $mail->AltBody = 'This is the body in plain text for non-HTML mail clients';
 
-    $mail->send();
-    //echo 'Mail has been sent';
-} catch (Exception $e) {
-    echo 'Message could not be sent. Mailer Error: ', $mail->ErrorInfo;
+      $mail->send();
+      //echo 'Mail has been sent';
+  } catch (Exception $e) {
+      echo 'Message could not be sent. Mailer Error: ', $mail->ErrorInfo;
+  }
+
 }
-
+tedmail($user_email,$user_name,$user_body); // trigger confirmation email to nominator
+tedmail(getenv("EMAIL_CC"),$organiser_name,$organiser_body);  // triggering email to us for our reference
 
 ?>
 
