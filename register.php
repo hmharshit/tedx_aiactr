@@ -59,7 +59,12 @@ $user_email=$nominee_email;
 $user_name=$nominee_first_name;
 $user_body='Hello user';
 $organiser_name='TEDxAIACTR';
-$organiser_body='Hello organisers';
+$organiser_body='<p>First Name : <?php $nominee_first_name?><br>
+Last Name : <?php $nominee_last_name?><br>
+First Name : <?php $nominee_email?><br>
+First Name : <?php $nominee_phone?><br>
+First Name : <?php $nominee_city?><br>
+First Name : <?php $occupation?><br></p>';
 
 //Load Composer's autoloader
 require 'vendor/autoload.php';
