@@ -57,7 +57,7 @@ use PHPMailer\PHPMailer\PHPMailer;
 use PHPMailer\PHPMailer\Exception;
 $user_email=$nominee_email;
 $user_name=$nominee_first_name;
-$user_body='Hello user';
+$user_body='You have successfully filled the form. Our team will contact you shortly.';
 $organiser_name='TEDxAIACTR';
 $organiser_body="<!DOCTYPE html><html>\n
 <head><style type=\"text/css\"></style></head>\n
@@ -118,8 +118,8 @@ function tedmail($to,$toname,$body, $subject){
   }
 
 }
-// tedmail($user_email,$user_name,$user_body, 'Confirmation From TEDxAIACTR'); // trigger confirmation email to nominator
-// tedmail(getenv("EMAIL_CC"),$organiser_name,$organiser_body, "New Speaker Nomination by $first_name $last_name");  // triggering email to us for our reference
+tedmail($user_email,$user_name,$user_body, 'Confirmation From TEDxAIACTR'); // trigger confirmation email to nominator
+tedmail(getenv("EMAIL_CC"),$organiser_name,$organiser_body, "New Speaker Nomination by $first_name $last_name");  // triggering email to us for our reference
 
 ?>
 
