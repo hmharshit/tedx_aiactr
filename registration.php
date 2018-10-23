@@ -30,6 +30,15 @@
     cursor: pointer;
     float: right;
 }
+input[type=reset] {
+	background-color: #df0024;
+	color: white;
+	padding: 12px 20px;
+	border: none;
+	border-radius: 4px;
+	cursor: pointer;
+	float: right;
+}
 </style>
 </head>
 
@@ -257,7 +266,7 @@
   <option value="69">Hong Kong</option>
   <option value="212">Hungary</option>
   <option value="76">Iceland</option>
-  <option value="72">India</option>
+  <option value="india">India</option>
   <option value="71">Indonesia</option>
   <option value="74">Iran</option>
   <option value="73">Iraq</option>
@@ -390,8 +399,8 @@
   <option value="210">Uganda</option>
   <option value="211">Ukraine</option>
   <option value="11">United Arab Emirates</option>
-  <option value="30">United Kingdom</option>
-  <option value="225">United States</option>
+  <option value="United Kingdom">United Kingdom</option>
+  <option value="United States">United States</option>
   <option value="235">United States Minor Outlying Islands</option>
   <option value="213">Uruguay</option>
   <option value="216">Uzbekistan</option>
@@ -710,7 +719,8 @@
    </div>
   <div class='col-2 pull-right action-button' style="padding-left: 25%;">
   <a href="http://www.ted.com">
-  <input type="submit" value="Cancel"></a>
+  <input type="reset" value="Reset">
+  </a>
   </div>
   </div>
   </form>

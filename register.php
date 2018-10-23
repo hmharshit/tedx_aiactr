@@ -4,22 +4,22 @@
 require_once('connect.php');
 $yrls        = array();
 $editor_urls = array();
-$_POST       = $_POST['nomination'];
-$first_name  = $_POST['nominator_first_name'];
-$last_name   = $_POST['nominator_last_name'];
-$email       = $_POST['nominator_email'];
-$phone       = $_POST['nominator_phone'];
+$_POST       =  str_replace("'", "", $_POST['nomination']);
+$first_name  =  str_replace("'", "", $_POST['nominator_first_name']);
+$last_name   =  str_replace("'", "", $_POST['nominator_last_name']);
+$email       =  str_replace("'", "", $_POST['nominator_email']);
+$phone       =  str_replace("'", "", $_POST['nominator_phone']);
 $is_self = ((int) $_POST['is_self'] == 1 ? "true" : "false");
-$nominee_first_name = $_POST['nominee_first_name'];
-$nominee_last_name  = $_POST['nominee_last_name'];
-$nominee_email      = $_POST['nominee_email'];
-$nominee_phone      = $_POST['nominee_phone'];
-$nominee_city       = $_POST['nominee_city'];
-$nominee_country    = $_POST['country_id'];
-$nominee_gender     = $_POST['nominee_gender'];
-$occupation         = $_POST['occupation'];
-$about_the_nominee  = $_POST['about_the_nominee'];
-$talk_description   = $_POST['talk_description'];
+$nominee_first_name =  str_replace("'", "", $_POST['nominee_first_name']);
+$nominee_last_name  =  str_replace("'", "", $_POST['nominee_last_name']);
+$nominee_email      =  str_replace("'", "", $_POST['nominee_email']);
+$nominee_phone      =  str_replace("'", "", $_POST['nominee_phone']);
+$nominee_city       =  str_replace("'", "", $_POST['nominee_city']);
+$nominee_country    =  str_replace("'", "", $_POST['country_id']);
+$nominee_gender     =  str_replace("'", "", $_POST['nominee_gender']);
+$occupation         =  str_replace("'", "", $_POST['occupation']);
+$about_the_nominee  =  str_replace("'", "", $_POST['about_the_nominee']);
+$talk_description   =  str_replace("'", "", $_POST['talk_description']);
 $category_list      = implode(",", $_POST['category_list']);
 $public_speaking    = $_POST['public_speaking'];
 for ($i = 0; $i < sizeof($_POST['media_links_attributes']); $i++) {
@@ -30,7 +30,7 @@ for ($i = 0; $i < sizeof($_POST['editorial_links_attributes']); $i++) {
     $editor_urls[] = $_POST['editorial_links_attributes'][$i]['url'];
 }
 $editor_urls         = implode(",", $editor_urls);
-$is_personal_contact = $_POST['is_personal_contact'];
+$is_personal_contact = ((int) $_POST['is_personal_contact'] == 1 ? "true" : "false");;
 
 $SQL_QUERY = "INSERT INTO registration_data
     (nominator_first_name, nominator_last_name, nominator_email, nominator_phone,
@@ -57,7 +57,7 @@ use PHPMailer\PHPMailer\PHPMailer;
 use PHPMailer\PHPMailer\Exception;
 $user_email=$nominee_email;
 $user_name=$nominee_first_name;
-$user_body='Hello user';
+$user_body='You have successfully filled the form. Our team will contact you shortly.';
 $organiser_name='TEDxAIACTR';
 $organiser_body="<!DOCTYPE html><html>\n
 <head><style type=\"text/css\"></style></head>\n

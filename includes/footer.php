@@ -30,9 +30,9 @@
             </li>
         </ul-->
            <div class="row"> <input type="email" name="email" placeholder="Your Email" id="snackbarEmail">
-        <button 
+        <button
         onclick="myFunction()"
-        class="btn btn-primary" 
+        class="btn btn-primary"
         style=" margin-top: 2%; font-size: 20px; background-color: #010101; border-color: #df0024;">Subscribe</button></div>
 
     </div>
@@ -66,7 +66,7 @@
     <h6><font color="#ffffff">&copy; This independent TEDx event is operated under license from TED.</font></style></h6>
 </div>
 </div>
-<div id="snackbar">Registration Successful.</div>
+<div id="snackbar">Subscribed Successfully.</div>
 
 <style>
 #snackbar {
@@ -92,7 +92,7 @@
 }
 
 @-webkit-keyframes fadein {
-    from {bottom: 0; opacity: 0;} 
+    from {bottom: 0; opacity: 0;}
     to {bottom: 30px; opacity: 1;}
 }
 
@@ -102,7 +102,7 @@
 }
 
 @-webkit-keyframes fadeout {
-    from {bottom: 30px; opacity: 1;} 
+    from {bottom: 30px; opacity: 1;}
     to {bottom: 0; opacity: 0;}
 }
 
@@ -126,4 +126,3 @@ function myFunction() {
     setTimeout(function(){ x.className = x.className.replace("show", ""); }, 3000);
 }
 </script>
-
