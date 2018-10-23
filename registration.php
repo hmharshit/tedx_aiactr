@@ -710,7 +710,8 @@
    </div>
   <div class='col-2 pull-right action-button' style="padding-left: 25%;">
   <a href="http://www.ted.com">
-  <input type="submit" value="Cancel"></a>
+  <input type="reset" value="Reset">
+  </a>
   </div>
   </div>
   </form>
