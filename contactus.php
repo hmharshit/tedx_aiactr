@@ -8,6 +8,6 @@ $SQL_QUERY = "INSERT INTO contact_data
     (contact_name, contact_email, contact_no, contact_message)
     VALUES
     ('$contact_name', '$contact_email', '$contact_no', '$contact_message');";
-echo ($SQL_QUERY);
+echo "thank you";
 $result = pg_query($db_connection, $SQL_QUERY);
 ?>
