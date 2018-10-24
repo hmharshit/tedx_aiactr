@@ -202,7 +202,7 @@
                                 <h4>Shadab Alam</h4>
                             </div>
                         </div>
-                        <div class="col-lg-3 col-md-6 single-team">
+                        <!-- <div class="col-lg-3 col-md-6 single-team">
                             <div class="thumb">
                                 <img class="img-fluid" src="public/images/team/jaggannath.jpg" alt="">
                                 <div class="align-items-center justify-content-center d-flex">
@@ -212,7 +212,7 @@
                                 <h4>Jaggannath Jyanti</h4>
 
                             </div>
-                        </div>
+                        </div> -->
                         <div class="col-lg-3 col-md-6 single-team">
                             <div class="thumb">
                                 <img class="img-fluid" src="public/images/team/adityagarg1.jpg" alt="">
@@ -235,12 +235,6 @@
                             </div>
                         </div>
 
-
-
-                        </div>
-
-
-                        <div class="row justify-content-center d-flex align-items-center">
                         <div class="col-lg-3 col-md-6 single-team">
                             <div class="thumb">
                                 <img class="img-fluid" src="public/images/team/prakhar.jpg" alt="">
@@ -251,17 +245,11 @@
                                 <h4>Prakhar Mishra</h4>
                             </div>
                         </div>
-                        <div class="col-lg-3 col-md-6 single-team">
-                            <div class="thumb">
-                                <img class="img-fluid" src="public/images/team/pradhi.jpg" alt="">
-                                <div class="align-items-center justify-content-center d-flex">
-                                </div>
-                            </div>
-                            <div class="meta-text mt-30 text-center">
-                                <h4>Pradhi</h4>
 
-                            </div>
                         </div>
+
+
+                        <div class="row justify-content-center d-flex align-items-center">
                          <div class="col-lg-3 col-md-6 single-team">
                             <div class="thumb">
                                 <img class="img-fluid" src="public/images/team/aman.jpg" alt="">
