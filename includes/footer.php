@@ -67,7 +67,6 @@
 </div>
 </div>
 <div id="snackbar">Subscribed Successfully.</div>
-
 <style>
 #snackbar {
     visibility: hidden;
