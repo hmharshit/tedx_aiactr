@@ -4,7 +4,7 @@
     <meta name="theme-color" content="#a51e15" />
     <meta name="description" content="Want too see this pretty website previews?" />
     <meta property="og:title" content="TEDxAIACTR 2019">
-    <meta property="og:image" itemprop="image" content="public/images/tedx.jpg">
+    <meta property="og:image:secure_url" itemprop="image" content="https://tedxaiactr.com/public/images/tedx.jpg">
     <meta property="og:description" content="An endeavour towards disseminating pristine ideas.">
     <meta property="og:url" content="https://tedxaiactr.com">
     <meta property="og:type" content="website" />
