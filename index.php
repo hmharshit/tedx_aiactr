@@ -2,9 +2,10 @@
 <html>
 <head>
     <meta name="theme-color" content="#a51e15" />
+    <meta name="description" content="Want too see this pretty website previews?" />
     <meta property="og:title" content="TEDxAIACTR 2019">
-    <meta property="og:image" content="public/images/preview.JPG">
-    <meta property="og:description" content="TEDxAIACTR is an endeavour organized to provide an efficient platform for the surge of ideas, knowledge and opinion, worth spreading.">
+    <meta property="og:image" content="public/images/tedx.jpg">
+    <meta property="og:description" content="An endeavour towards disseminating pristine ideas.">
     <meta property="og:url" content="https://tedxaiactr.com">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 	<title>TEDxAIACTR </title>

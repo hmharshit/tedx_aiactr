@@ -197,6 +197,7 @@ r{
   height: 100%;
   z-index: 9999;
   background: url("../images/preloader.gif") 50% 50% no-repeat #f9f9f9;
+  background-size: cover;
   opacity: 1; }
 
 #themeDiv {
