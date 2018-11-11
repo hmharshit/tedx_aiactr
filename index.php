@@ -4,10 +4,11 @@
     <meta name="theme-color" content="#a51e15" />
     <meta name="description" content="Want too see this pretty website previews?" />
     <meta property="og:title" content="TEDxAIACTR 2019">
-    <meta property="og:image:secure_url" itemprop="image" content="https://tedxaiactr.com/public/images/tedx.jpg">
+    <meta property="og:image" itemprop="image" content="https://tedxaiactr.com/public/images/tedx.jpg">
     <meta property="og:description" content="An endeavour towards disseminating pristine ideas.">
     <meta property="og:url" content="https://tedxaiactr.com">
-    <meta property="og:type" content="website" />
+    <meta property="og:type" content="website">
+    <meta property="og:locale" content="en_US">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 	<title>TEDxAIACTR </title>
     <link rel="icon" href="public/images/icon.png" type="image/gif" sizes="16x16">
