@@ -61,7 +61,7 @@ input[type=reset] {
   Use this form to suggest a speaker for a future TED Conference.
   </br>
   <span>Before you get started, please see our</span>
-  <a href="http://www.ted.com/about/conferences/speaking-at-ted">speaker nomination FAQ</a>.
+  <a href="http://www.ted.com/about/conferences/speaking-at-ted" target="_blank">speaker nomination FAQ</a>.
   </div>
   </h3>
   </div>
@@ -710,7 +710,7 @@ input[type=reset] {
   By checking this box, I consent and agree to TED processing my information as defined above.
   </div>
   </div>
-  </div>
+    </div>
   </div>
   </div>
   <div class='row'>
