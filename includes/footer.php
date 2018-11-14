@@ -11,6 +11,8 @@
          <li><a href=""><font color="#ffffff">TED Blog</font></a></li>
      </ul>
      </div>
+
+
     <div class="col-4">
                 <!--ul class="navbar-nav flex-row ml-md-auto d-md-flex">
             <li class="nav-item media-icons">
@@ -65,9 +67,19 @@
 <div style="text-align: center;">
     <h6><font color="#ffffff">&copy; This independent TEDx event is operated under license from TED.</font></style></h6>
 </div>
+<br>
+<div class="visitor-count">
+  <?php include "counter.php"; ?>
 </div>
+</div>
+
 <div id="snackbar">Subscribed Successfully.</div>
 <style>
+.visitor-count{
+  text-align: center;
+  color:#fff;
+  
+}
 #snackbar {
     visibility: hidden;
     min-width: 250px;
