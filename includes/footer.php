@@ -31,7 +31,7 @@
                 </a>
             </li>
         </ul-->
-           <div class="row"> <input type="email" name="email" placeholder="Your Email" id="snackbarEmail">
+           <div class="row"> <input type="email" name="email" placeholder="Your Email" id="snackbarEmail" required>
         <button
         onclick="myFunction()"
         class="btn btn-primary"
@@ -78,7 +78,7 @@
 .visitor-count{
   text-align: center;
   color:#fff;
-  
+
 }
 #snackbar {
     visibility: hidden;
