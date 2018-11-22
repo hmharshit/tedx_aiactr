@@ -126,14 +126,18 @@
 function myFunction() {
     var nameValue = document.getElementById("snackbarEmail").value;
     document.getElementById("snackbarEmail").value = "";
+    if(nameValue !='')
+    {
 
-    $.ajax({
- type: "POST",
- url: "subscribe.php",
- data: {email: nameValue}
-});
-    var x = document.getElementById("snackbar");
-    x.className = "show";
-    setTimeout(function(){ x.className = x.className.replace("show", ""); }, 3000);
+      $.ajax({
+      type: "POST",
+      url: "subscribe.php",
+      data: {email: nameValue}
+      });
+          var x = document.getElementById("snackbar");
+          x.className = "show";
+          setTimeout(function(){ x.className = x.className.replace("show", ""); }, 3000);
+    }
+
 }
 </script>
